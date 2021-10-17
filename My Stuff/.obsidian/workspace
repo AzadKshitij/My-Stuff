@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "90f9e032f0ad75d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bdaac19d18ed83f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GamedevSociety/Models.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fac288c3e882a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f09ff36f98af0f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "704797e034e1f4a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9829f1050879251e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239
+  },
+  "right": {
+    "id": "50ad3cf652756c7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c8ce4d6b4542a99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10fd2eb0aa321675",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GamedevSociety/Models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7eb5cba394a49dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a873456b3a61774",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GamedevSociety/Models.md"
+              }
+            }
+          },
+          {
+            "id": "d7a513eb16546fb5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2bdaac19d18ed83f",
+  "lastOpenFiles": [
+    "GamedevSociety/Models.md",
+    "GamedevSociety/Sequelize Documentation.md",
+    "GamedevSociety/Interectiver Circuit Game Server.md",
+    "GamedevSociety/Interactive Circuit Game.md",
+    "GamedevSociety/Untitled 1.md",
+    "GamedevSociety/Untitled.md",
+    "Dal Bati Churma.md",
+    "Daily/2021-10-17.md",
+    "Recording 20211017223729.webm",
+    "2021-10-17.md"
+  ]
+}
