@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2021-10-17.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2021-10-17.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2021-10-17.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,15 +118,15 @@
   },
   "active": "2bdaac19d18ed83f",
   "lastOpenFiles": [
-    "Daily/2021-10-17.md",
-    "Game Paper/Bibiliography.md",
-    "Game Paper/Untitled.md",
+    "Untitled.md",
     "Game Paper/Documantation.md",
-    "GamedevSociety/Models.md",
+    "GamedevSociety/DialogueSystem.md",
     "GamedevSociety/Sequelize Documentation.md",
+    "GamedevSociety/Models.md",
+    "GamedevSociety/Untitled.md",
     "GamedevSociety/Interectiver Circuit Game Server.md",
     "GamedevSociety/Interactive Circuit Game.md",
-    "GamedevSociety/Untitled 1.md",
-    "GamedevSociety/Untitled.md"
+    "Game Paper/Octalysis.md",
+    "Game Paper/Bibiliography.md"
   ]
 }

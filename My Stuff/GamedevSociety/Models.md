@@ -17,7 +17,9 @@
 
 # Question
 	- problem  : Text
+	- title : Text
 	- solution : Text
-	- email : string (from User)
-	- date : string
-	- 
+	- email : String (from User)
+	- date : String
+	- type : String | Integer |
+	- dialogue : JSON 
