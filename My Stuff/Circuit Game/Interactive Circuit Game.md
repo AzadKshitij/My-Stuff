@@ -10,3 +10,11 @@ Assignment karna hai,...
 
 		-	delete
 			-	selected entity 
+
+Server:
+AWS: 
+	CircuitGameServer : KeyPairname
+	
+	ssh -i "CircuitGameServer.pem" ec2-user@ec2-3-145-95-167.us-east-2.compute.amazonaws.com
+	AzadKshitij @ 247
+

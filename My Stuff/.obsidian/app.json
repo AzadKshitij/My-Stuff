@@ -1,3 +1,10 @@
 {
-  "spellcheck": true
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Kshitij",
+    "Jodhpur",
+    "mBAJA",
+    "pre",
+    "Postgress"
+  ]
 }

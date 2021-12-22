@@ -3,6 +3,7 @@
 	"boss" : {
 		"type": "text", 
 		"name": "Jimmy", 
+		"Expression"
 		"avatar": "jimmy-01.png",
 		"content": "This string will be parsed and printed",
 		"images": ["link1",link2]
@@ -12,7 +13,7 @@
 		"name": "Rohan", 
 		"avatar": "rohan-01.png",
 		"content": "This string will be parsed and printed",
-		"images": ["link1",link2]
+		"images": ["link1","link2"]
 		}
 }
 ```

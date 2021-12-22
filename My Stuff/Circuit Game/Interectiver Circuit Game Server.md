@@ -40,3 +40,13 @@ Re attempting a question after the competition:
 QNA :
 	- Provide question and answer.
 	- 
+	
+TODO
+[ ] Evaluation.
+[ ] Timer.
+[ ] Money.
+[ ] Add all components in tinker.
+[ ] Map me animation.
+[ ] Start Quest button in dialogue.
+[ ] Score in game.
+[ ] Component destroy in tinker.                                                                               

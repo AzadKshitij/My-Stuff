@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "90f9e032f0ad75d9",
+    "id": "04d17769801cbd23",
     "type": "split",
     "children": [
       {
-        "id": "2bdaac19d18ed83f",
+        "id": "da2f2ebda8629f93",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Circuit Game/Bugs.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Circuit Game/Bugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Circuit Game/Bugs.md"
               }
             }
           },
@@ -116,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2bdaac19d18ed83f",
+  "active": "da2f2ebda8629f93",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Game Paper/Documantation.md",
-    "GamedevSociety/DialogueSystem.md",
+    "Circuit Game/Bugs.md",
+    "Circuit Game/ToDo.md",
+    "Circuit Game/Extra Credits.md",
+    "Circuit Game/Interactive Circuit Game.md",
+    "Circuit Game/Models.md",
+    "GamedevSociety/Projects.md",
     "GamedevSociety/Sequelize Documentation.md",
-    "GamedevSociety/Models.md",
     "GamedevSociety/Untitled.md",
-    "GamedevSociety/Interectiver Circuit Game Server.md",
-    "GamedevSociety/Interactive Circuit Game.md",
-    "Game Paper/Octalysis.md",
-    "Game Paper/Bibiliography.md"
+    "Circuit Game/Interectiver Circuit Game Server.md",
+    "Circuit Game/DialogueSystem.md"
   ]
 }
