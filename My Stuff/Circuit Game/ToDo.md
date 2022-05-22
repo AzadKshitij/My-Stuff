@@ -61,3 +61,8 @@ Atharva Work Pending:
 1. Circuit validate scene transition not working.
 2. Buttons not working in Map scene.
 3. Scene loading in all transitions.
+
+
+Player ka name set karna hai.
+
+V(ZK)

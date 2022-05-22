@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "calendar"
+  "calendar",
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "cm-editor-syntax-highlight-obsidian"
 ]
