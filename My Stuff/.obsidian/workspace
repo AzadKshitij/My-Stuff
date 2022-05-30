@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "da2f2ebda8629f93",
+        "id": "6bc867b24a60f937",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Internship Speedlabs/Course - Chapter Mapping/Save to Database.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#back",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240
+    "width": 245
   },
   "right": {
     "id": "50ad3cf652756c7a",
@@ -65,12 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Internship Speedlabs/Course - Chapter Mapping/Save to Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Internship Speedlabs/Course - Chapter Mapping/Save to Database.md"
+              }
             }
           },
           {
@@ -103,24 +110,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "da2f2ebda8629f93",
+  "active": "6bc867b24a60f937",
   "lastOpenFiles": [
-    "GamedevSociety/Untitled.md",
-    "GamedevSociety/Sequelize Documentation.md",
-    "GamedevSociety/Projects.md",
+    "Internship Speedlabs/Course - Chapter Mapping/Save to Database.md",
+    "Internship Speedlabs/Kanban/Speedlabs - Kanban.md",
+    "Excalidraw/Drawing 2022-05-22 13.30.12.excalidraw.md",
+    "Internship Speedlabs/Course - Chapter Mapping/Pasted image 20220528095516.png",
+    "Internship Speedlabs/Course - Chapter Mapping/Callbakcs.md",
+    "Data Structure & Algorithms/Questions.md",
+    "Data Structure & Algorithms/Algorithms.md",
     "Internship Speedlabs/Week_1 16_05 - 22_05.md",
-    "Why Should We Hire You.md",
-    "Presentaion.md",
-    "About My Self.md",
-    "Projects/All.md",
-    "Projects/Circuit Maverick.md",
-    "Projects/Astu Website.md"
+    "Internship Speedlabs/Kanban/Variables.md",
+    "sdasd.md"
   ]
 }
