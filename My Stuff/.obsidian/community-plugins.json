@@ -7,5 +7,7 @@
   "dataview",
   "obsidian-completr",
   "obsidian-advanced-slides",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "obsidian-tasks-plugin",
+  "sliding-panes-obsidian"
 ]

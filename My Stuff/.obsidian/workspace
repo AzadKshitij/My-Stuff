@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6bc867b24a60f937",
+        "id": "a102eefde2803830",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "coddingtonbearobsidian-web Connect your web browser with your notes in Obsidian..md",
+            "file": "1 Daily/_Start Here.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0367abc4c9e0001d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1 Daily/Diary/Daily Notes/2022-06-09.md",
             "mode": "source",
             "source": false
           }
@@ -40,13 +52,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#back",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "a22ca5fd3fb670ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -69,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coddingtonbearobsidian-web Connect your web browser with your notes in Obsidian..md",
+                "file": "1 Daily/_Start Here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coddingtonbearobsidian-web Connect your web browser with your notes in Obsidian..md"
+                "file": "1 Daily/_Start Here.md"
               }
             }
           },
@@ -114,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6bc867b24a60f937",
+  "active": "a102eefde2803830",
   "lastOpenFiles": [
-    "coddingtonbearobsidian-web Connect your web browser with your notes in Obsidian..md",
-    "Daily/today.md",
-    "Presentaion.md",
-    "Untitledasd ad.md",
-    "coddingtonbearobsidian-local-rest-api Get, change, and otherwise interact with your notes in Obsidian via a REST API..md",
-    "Why Should We Hire You.md",
-    "Image.jpg.md",
-    "Internship Speedlabs/Research/Detection of Paragraf from image.md",
-    "Internship Speedlabs/Research/Pasted image 20220604215149.png",
-    "Pasted image 20220528095637.png"
+    "1 Daily/_Start Here.md",
+    "1 Daily/Diary/Daily Notes/2022-06-09.md",
+    "1 Daily/2022-06-09.md",
+    "1 Daily/Diary/Daily Notes/2021-12-31.md",
+    "1 Daily/Diary/Daily Notes/2022-01-04.md",
+    "1 Daily/Diary/Daily Notes/2022-01-05.md",
+    "_templates/Daily Notes Template.md",
+    "Untitled.md",
+    "1 Daily/00 Tasks Log.md",
+    "1 Daily/00 New Discoveries Log.md"
   ]
 }
