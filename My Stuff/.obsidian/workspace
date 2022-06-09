@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Internship Speedlabs/Course - Chapter Mapping/Save to Database.md",
+            "file": "coddingtonbearobsidian-web Connect your web browser with your notes in Obsidian..md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship Speedlabs/Course - Chapter Mapping/Save to Database.md",
+                "file": "coddingtonbearobsidian-web Connect your web browser with your notes in Obsidian..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internship Speedlabs/Course - Chapter Mapping/Save to Database.md"
+                "file": "coddingtonbearobsidian-web Connect your web browser with your notes in Obsidian..md"
               }
             }
           },
@@ -110,24 +110,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6bc867b24a60f937",
   "lastOpenFiles": [
-    "Internship Speedlabs/Course - Chapter Mapping/Save to Database.md",
-    "Internship Speedlabs/Kanban/Speedlabs - Kanban.md",
-    "Excalidraw/Drawing 2022-05-22 13.30.12.excalidraw.md",
-    "Internship Speedlabs/Course - Chapter Mapping/Pasted image 20220528095516.png",
-    "Internship Speedlabs/Course - Chapter Mapping/Callbakcs.md",
-    "Data Structure & Algorithms/Questions.md",
-    "Data Structure & Algorithms/Algorithms.md",
-    "Internship Speedlabs/Week_1 16_05 - 22_05.md",
-    "Internship Speedlabs/Kanban/Variables.md",
-    "sdasd.md"
+    "coddingtonbearobsidian-web Connect your web browser with your notes in Obsidian..md",
+    "Daily/today.md",
+    "Presentaion.md",
+    "Untitledasd ad.md",
+    "coddingtonbearobsidian-local-rest-api Get, change, and otherwise interact with your notes in Obsidian via a REST API..md",
+    "Why Should We Hire You.md",
+    "Image.jpg.md",
+    "Internship Speedlabs/Research/Detection of Paragraf from image.md",
+    "Internship Speedlabs/Research/Pasted image 20220604215149.png",
+    "Pasted image 20220528095637.png"
   ]
 }

@@ -4,8 +4,8 @@
 	- Return the output of first two and works the way forward.
 
 ## Inventory Update
- - localeCompare
-	 - Compares two strings locally 
+ - locale Compare
+	 - Compares two strings locally x
 	 - return the order of sort b/w two string
 	 - -1 = before; 0 = equal; 1 = after
 	 ```javascript

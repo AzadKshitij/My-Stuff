@@ -7,8 +7,9 @@ kanban-plugin: basic
 ## ToDo
 
 - [ ] All user Actions
-- [ ] Save all information to database [[Save to Database | Info]]
 - [ ] Combination for user inputs
+- [ ] Save all information to database [[Save to Database]]
+- [ ] Check fields and save to database. [[Database Drawing]]
 
 
 ## In Progress
@@ -25,6 +26,8 @@ kanban-plugin: basic
 - [x] Get Chapter related to class, subject and the selected topic. #speedlabs @{2022-05-28}
 - [x] Manage IDS for field
 - [x] Chapter with Ids
+- [x] Don't show existing list in dropdown
+- [x] Re arrange the chapter list
 
 
 

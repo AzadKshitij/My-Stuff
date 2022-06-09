@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "571c22850380983f",
+    "type": "split",
+    "children": [
+      {
+        "id": "10bf88f390b730ed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Phantom wallet.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5caad61b8886feca",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2c020d46a6f41f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81f895cc767a80c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed81198e92d15215",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216
+  },
+  "right": {
+    "id": "0ddc968d3085bcf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "54840facdcd39383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "374ec0db5e78ab40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Phantom wallet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61022487eb55c59a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "10bf88f390b730ed",
+  "lastOpenFiles": [
+    "Phantom wallet.md",
+    "CoinDCX/ETH.md",
+    "CoinDCX/Doge.md",
+    "CoinDCX/Polygon.md",
+    "CoinDCX/WalletID.md",
+    "CoinDCX/MetaMask.md",
+    "CoinDCX/Hadera Hashtable.md"
+  ]
+}

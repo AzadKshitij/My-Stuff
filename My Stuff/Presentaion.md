@@ -36,5 +36,3 @@ After we started Game Development
 And here comes the part most of us are excited for...p
 How games can help us...
 	- By testing and giving some Idea about game design and game balancing.
-	
-

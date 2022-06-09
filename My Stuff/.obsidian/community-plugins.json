@@ -3,5 +3,9 @@
   "calendar",
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "dataview",
+  "obsidian-completr",
+  "obsidian-advanced-slides",
+  "obsidian-local-rest-api"
 ]
