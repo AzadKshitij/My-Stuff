@@ -1,13 +1,17 @@
 # My-Stuff
+## asdasd asd
+### dsada sd
+#### dsada d
+##### sdasd asd
+###### sda sd
 
-My second Brain build in obsidian
+My second Brain **build** in obsidian
 
 [[today]]
 ![[Questions]]
-sd jasdhlks ad
-ad
- a
- sd
- asd
-asd
-sd
+
+@ : People
+$ : Tweets
+; : Articles
+~ : Youtube video
+& : Podcast

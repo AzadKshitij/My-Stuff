@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasImages",
+      "FasBook",
+      "FasTicketSimple",
+      "FasCalendarDay",
+      "FasGamepad"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "_templates": "FasTicketSimple",
+  "1 Daily": "FasCalendarDay",
+  "2 Study": "FasBook",
+  "3 GamedevSociety": "FasGamepad",
+  "4 Internship": "FasNetworkWired",
+  "5 Projects": "RiProjectorFill",
+  "Assets": "FasImages"
+}

@@ -58,7 +58,7 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 - VideoLog::
 
 ### Tasks Log
-- [ ] #ReadLater
+- [ ] #ReadLater  #daily 
 - [ ] #WatchLater 
 - [ ] #RemindMe 
 

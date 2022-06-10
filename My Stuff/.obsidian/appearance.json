@@ -1,6 +1,7 @@
 {
-  "baseFontSize": 14,
-  "enabledCssSnippets": [
-    "AtomDark"
-  ]
+  "baseFontSize": 18,
+  "enabledCssSnippets": [],
+  "cssTheme": "K'Obsidianite",
+  "translucency": false,
+  "monospaceFontFamily": "Fira Code"
 }

@@ -14,5 +14,6 @@
     "en-GB",
     "en-US"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Assets"
 }
