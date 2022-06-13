@@ -30,4 +30,5 @@ CourseChapterId | CourseId | ClassId | SubjectId | TopicId | ChapterId | IsActiv
 ==3711== | 54 | 26 |32 |NULL | 2601 | 1 | 1
 
 > [!question]+ What dose the display rank means????
-> ![[Pasted image 20220528095637.png]]
+> ![[Assets/Pasted image 20220528095516.png]]
+

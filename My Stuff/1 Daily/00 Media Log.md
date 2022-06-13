@@ -29,6 +29,16 @@ sort file.name desc
 ```
 
 
+
+
+```dataview
+table WorkoutLog as "Log"
+from "1 Daily/Diary/Daily Notes"
+where contains(WorkoutLog, "")
+sort file.name desc
+```
+
+
 ## Video Log
 ---
 ```dataview

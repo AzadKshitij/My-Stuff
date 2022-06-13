@@ -9,7 +9,6 @@
 	 - return the order of sort b/w two string
 	 - -1 = before; 0 = equal; 1 = after
 
-
 ```javascript
 	let text1 = "ab";
 	let text2 = "cd";

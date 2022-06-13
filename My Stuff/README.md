@@ -1,17 +1,15 @@
 # My-Stuff
-## asdasd asd
-### dsada sd
-#### dsada d
-##### sdasd asd
-###### sda sd
+## Daily Notes
+```dataview
+TABLE FROM "1 Daily" 
+where contains(file.path, "00")
+```
 
-My second Brain **build** in obsidian
-
-[[today]]
-![[Questions]]
-
-@ : People
-$ : Tweets
-; : Articles
-~ : Youtube video
-& : Podcast
+## Study
+```dataview
+table file.path as "Path" from "2 Study"
+```
+## Publications
+```dataview
+table from "3 GamedevSociety/Game Paper"
+```

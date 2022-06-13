@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Projects",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"1 Daily\"",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -31,14 +31,14 @@
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 1.22315914489311,
-  "lineSizeMultiplier": 1.61888361045131,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 1.06898876404494,
+  "lineSizeMultiplier": 1.55348314606742,
   "collapse-forces": true,
-  "centerStrength": 0.309976247030879,
-  "repelStrength": 5.15290973871734,
+  "centerStrength": 0.209026128266033,
+  "repelStrength": 4.18052256532067,
   "linkStrength": 1,
-  "linkDistance": 209,
-  "scale": 0.7416584057026209,
+  "linkDistance": 186,
+  "scale": 1.1314420574034707,
   "close": false
 }

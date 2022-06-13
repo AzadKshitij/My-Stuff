@@ -11,7 +11,7 @@ Summaries of the daily notes go here!
 ## This Week
 ---
 ```dataview
-TABLE WITHOUT ID link(file.link, " ") + "<strong>" + Title + "</strong><br>" + Summary  + "<br>" + file.link AS Entries
+TABLE WITHOUT ID link(file.link, " ") + "<strong>" + Title + "</strong><br>" + Summary + "<br>" + file.link AS Entries
 from "1 Daily/Diary/Daily Notes"
 SORT file.name desc
 LIMIT 7

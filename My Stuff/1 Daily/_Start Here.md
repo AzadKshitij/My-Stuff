@@ -35,7 +35,8 @@ The following inline fields are the ones you input in your daily note->([[2022-0
 	- Add a summary for it to appear in the [[00 Daily Notes Hub]]
 - ``Title:`` 
 	- Add a title of the daily note for it to appear in the [[00 Daily Notes Hub]]. You need to switch to **Editing Mode** (Ctrl-E or Command-E) and **scroll up to the top of the note** to find this metadata.
-
+- ``Research:
+	- Daily research done on the internet (Entered by extension on browser)
 ## Log Notes Dataview Codes
 ---
 > 💡 Remove the space between the three **`backticks (```)`** and the `dataview` or `tasks` word if you want to activate the codes below!

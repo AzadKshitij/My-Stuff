@@ -15,5 +15,6 @@
     "en-US"
   ],
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "newLinkFormat": "absolute"
 }

@@ -52,6 +52,9 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 - PersonalProjects::
 
 ### Reading Log
+- ReadingLog:: 
+
+### Listening Log
 - ListeningLog::
 
 ### Video Log
@@ -64,3 +67,5 @@ dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 
 ### Workout Log
 - WorkoutLog::
+
+# Research
