@@ -6,8 +6,6 @@
 Summaries of the daily notes go here!
 
 
-
-
 ## This Week
 ---
 ```dataview

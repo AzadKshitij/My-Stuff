@@ -16,7 +16,6 @@ path includes "1 Daily/Diary/Daily Notes"
 
 
 
-
 ## Read Later
 ---
 ```tasks

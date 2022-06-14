@@ -1668,6 +1668,17 @@ a.tag[href*="#文章"] {
   color: #fff;
 }
 
+.tag[href*="#ReadLater"]{
+  background-color: #005792;
+  color: #fff;
+}
+
+.tag[href*="#WatchLater"]{
+  background-color: #005792;
+  color: #fff;
+}
+
+
 .cm-s-obsidian
   .CodeMirror-line
   span.cm-tag-writing:not(.cm-formatting-hashtag) {
@@ -1698,12 +1709,3 @@ a.tag[href*="#想法"] {
   background-color: orange;
 }
 
-/* 
-.cm-hashtag {
-  color: #ee6a96;
-}
-
-.cm-hashtag .cm-hashtag-end .cm-meta .cm-tag-todo {
-  background-color: #fff;
-  color: #ee6a96;
-} */
