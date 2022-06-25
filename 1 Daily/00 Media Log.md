@@ -7,9 +7,6 @@
 Media Log contains mini-reviews on the books/articles I read and the videos I watch.
 
 
-
-
-
 ## Listening Log
 ---
 ```dataview
