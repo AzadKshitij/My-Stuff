@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1efa049e5135d14d",
+        "id": "47622d1c7bb35649",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5 Projects/All.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d98e04a3e36c63cc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1 Daily/Diary/Daily Notes/2022-06-14.md",
+            "file": "1 Daily/Diary/Daily Notes/2022-06-25.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Daily/Diary/Daily Notes/2022-06-14.md",
+                "file": "1 Daily/Diary/Daily Notes/2022-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Daily/Diary/Daily Notes/2022-06-14.md"
+                "file": "1 Daily/Diary/Daily Notes/2022-06-25.md"
               }
             }
           }
@@ -144,17 +132,17 @@
     "width": 288,
     "collapsed": true
   },
-  "active": "d98e04a3e36c63cc",
+  "active": "47622d1c7bb35649",
   "lastOpenFiles": [
-    "1 Daily/Diary/Daily Notes/2022-06-14.md",
+    "1 Daily/Diary/Daily Notes/2022-06-25.md",
+    "1 Daily/Diary/Daily Notes/2022-06-21.md",
+    "1 Daily/Diary/Daily Notes/2022-06-22.md",
+    "1 Daily/Diary/Daily Notes/2022-06-23.md",
     "1 Daily/Diary/Daily Notes/2022-06-13.md",
-    "_templates/Daily Notes Template.md",
-    "5 Projects/Astu App.md",
-    "5 Projects/All.md",
-    "1 Daily/00 Daily Notes Hub.md",
-    "5 Projects/Triger.md",
-    "5 Projects/Portfolio Blog.md",
-    "5 Projects/IITJ Vote.md",
-    "5 Projects/Flappy Bird.md"
+    "1 Daily/Diary/Daily Notes/2022-06-20.md",
+    "1 Daily/Diary/Daily Notes/2022-06-18.md",
+    "1 Daily/Diary/Daily Notes/2022-06-17.md",
+    "1 Daily/Diary/Daily Notes/2022-06-16.md",
+    "1 Daily/00 New Discoveries Log.md"
   ]
 }

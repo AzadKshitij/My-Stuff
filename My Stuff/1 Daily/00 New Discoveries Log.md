@@ -18,3 +18,9 @@ sort file.name desc
 
 
 
+```dataview
+table NewDiscovery as "Log"
+from "1 Daily/Diary/Daily Notes"
+where contains(URL, "")
+sort file.name desc
+```
