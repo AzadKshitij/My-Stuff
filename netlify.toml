@@ -25,27 +25,6 @@ TIMEZONE = "Asia/Kolkata"
 ZOLA_VERSION = "0.15.2"
 
 
-[[plugins]]
-package = "netlify-plugin-submit-sitemap"
-
-[plugins.inputs]
-
-# The base url of your site (optional, default = main URL set in Netlify)
-baseUrl = "https://lighthearted-bunny-d9937a.netlify.app/"
-
-# Path to the sitemap URL (optional, default = /sitemap.xml)
-sitemapPath = "/sitemap.xml"
-
-# Time in seconds to not submit the sitemap after successful submission
-ignorePeriod = 0
-
-# Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
-providers = [
-  "google",
-  "bing",
-  "yandex",
-]
-
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
 # (Optional) Google Analytics Measurement ID
