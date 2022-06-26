@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d8542e4a293f6852",
+        "id": "cf3acc5b18d2f975",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 Daily/Diary/Daily Notes/2022-06-25.md",
-            "mode": "source",
+            "file": "5 Projects/Circuit Game/Interactive Circuit Game.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Daily/Diary/Daily Notes/2022-06-25.md",
+                "file": "5 Projects/Circuit Game/Interactive Circuit Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Daily/Diary/Daily Notes/2022-06-25.md"
+                "file": "5 Projects/Circuit Game/Interactive Circuit Game.md"
               }
             }
           }
@@ -132,17 +132,17 @@
     "width": 288,
     "collapsed": true
   },
-  "active": "d8542e4a293f6852",
+  "active": "cf3acc5b18d2f975",
   "lastOpenFiles": [
-    "1 Daily/Diary/Daily Notes/2022-06-25.md",
-    "README.md",
-    "1 Daily/00 Workout Log.md",
-    "1 Daily/00 Tasks Log.md",
-    "1 Daily/00 Ship's Log.md",
-    "1 Daily/00 Media Log.md",
-    "1 Daily/00 New Discoveries Log.md",
-    "1 Daily/00 Daily Notes Hub.md",
-    "Why Should We Hire You.md",
-    "About My Self.md"
+    "5 Projects/Circuit Game/Interactive Circuit Game.md",
+    "5 Projects/Circuit Game/Interectiver Circuit Game Server.md",
+    "5 Projects/Circuit Game/Models.md",
+    "5 Projects/Circuit Game/ToDo.md",
+    "5 Projects/Triger.md",
+    "5 Projects/Portfolio Blog.md",
+    "5 Projects/IITJ Vote.md",
+    "5 Projects/Flappy Bird.md",
+    "5 Projects/Circuit Maverick.md",
+    "5 Projects/Astu Website.md"
   ]
 }

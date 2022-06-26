@@ -1,4 +1,5 @@
-# Data types
+# Sequelize
+## Data types
 `
 Sequelize.STRING // VARCHAR(255) 
 Sequelize.STRING(1234) // VARCHAR(1234) 
@@ -75,5 +76,5 @@ Sequelize.GEOMETRY('POINT') // Spatial column with geometry type. PostgreSQL (wi
 Sequelize.GEOMETRY('POINT', 4326) // Spatial column with geometry type and SRID. PostgreSQL (with PostGIS) or MySQL only.
 `
 
-# Generate Model
+## Generate Model
 ` sequelize model:generate --name User --attributes firstName:string,lastName:string,email:string `

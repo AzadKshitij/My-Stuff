@@ -1,3 +1,5 @@
+# Variable
+
 ```python
 currentClasses = ["Class 11", "Class 12"]
 

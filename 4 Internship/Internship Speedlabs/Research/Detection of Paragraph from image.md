@@ -1,7 +1,7 @@
 ---
 link: /vault/4 Internship/Internship Speedlabs/Research/Detection of Paragraph from image.md
 ---
-### [Detect multiple blocks of text from an image of a document](https://stackoverflow.com/questions/63960038/how-to-detect-multiple-blocks-of-text-from-an-image-of-a-document)
+# [Detect multiple blocks of text from an image of a document](https://stackoverflow.com/questions/63960038/how-to-detect-multiple-blocks-of-text-from-an-image-of-a-document)
 1.  First you need to convert the image into grayscale
 2.  Perform otsu'threshold which does better binarization in removing the background.
 3.  Specify structure shape and kernel size. Kernel size increases or decreases the area of the rectangle to be detected.

@@ -1,3 +1,4 @@
+# Server
 [[Interactive Circuit Game]]
 - Redirect to our server and login with google.
 
