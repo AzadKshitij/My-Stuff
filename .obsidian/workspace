@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 GamedevSociety/Projects.md",
+            "file": "3 Study/Book/Python Cookbook.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 GamedevSociety/Projects.md",
+                "file": "3 Study/Book/Python Cookbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 GamedevSociety/Projects.md"
+                "file": "3 Study/Book/Python Cookbook.md"
               }
             }
           }
@@ -134,15 +134,15 @@
   },
   "active": "cf3acc5b18d2f975",
   "lastOpenFiles": [
+    "3 Study/Book/Python Cookbook.md",
+    "3 Study/Data Structure & Algorithms/Algorithms.md",
+    "2 GamedevSociety/Sequelize Documentation.md",
     "2 GamedevSociety/Projects.md",
     "2 GamedevSociety/Game Paper/Presentation Of Design Credit.md",
     "2 GamedevSociety/Game Paper/Octalysis.md",
     "2 GamedevSociety/Game Paper/Documantation.md",
     "2 GamedevSociety/Game Paper/Bibiliography.md",
     "2 GamedevSociety/Game Paper/Assets.md",
-    "3 Study/Data Structure & Algorithms/Algorithms.md",
-    "3 Study/Data Structure & Algorithms/Questions.md",
-    "3 Study/Books/Modern Python  Cookbook.md",
-    "1 Daily/00 Workout Log.md"
+    "3 Study/Data Structure & Algorithms/Questions.md"
   ]
 }
