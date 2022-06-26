@@ -16,8 +16,8 @@ table file.path as "Path" from "2 Study"
 
 ## Study
 
-- [[2 Study/Data Structure & Algorithms/Algorithms | Algorithms]]
-- [[2 Study/Data Structure & Algorithms/Questions |Question]]
+- [[3 Study/Data Structure & Algorithms/Algorithms | Algorithms]]
+- [[3 Study/Data Structure & Algorithms/Questions |Question]]
 - [Modern Python Cookbook](app://obsidian.md/2%20Study/Books/Modern%20Python%20%20Cookbook.md)
 
 ## Publications

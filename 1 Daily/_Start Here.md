@@ -6,6 +6,8 @@
 ## Daily Note Inline Fields
 ---
 
+> [!note]
+> It's important to note that float values are really approximations. The Python syntax allows us to write numbers as decimal values; however, that's not how they're processed internally.
 > 💡 Remember to remove the **` backticks(```) `** in the inline fields below if you want to activate them!
 
 - `NewDiscovery::`

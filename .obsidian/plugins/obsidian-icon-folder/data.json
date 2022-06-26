@@ -22,9 +22,9 @@
   },
   "_templates": "FasTicketSimple",
   "1 Daily": "FasCalendarDay",
-  "2 Study": "FasBook",
-  "3 GamedevSociety": "FasGamepad",
   "4 Internship": "FasNetworkWired",
   "5 Projects": "RiProjectorFill",
-  "Assets": "FasImages"
+  "Assets": "FasImages",
+  "3 Study": "FasBook",
+  "2 GamedevSociety": "FasGamepad"
 }

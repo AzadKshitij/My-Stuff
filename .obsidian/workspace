@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5 Projects/Circuit Game/Interactive Circuit Game.md",
-            "mode": "preview",
+            "file": "2 GamedevSociety/Projects.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Projects/Circuit Game/Interactive Circuit Game.md",
+                "file": "2 GamedevSociety/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Projects/Circuit Game/Interactive Circuit Game.md"
+                "file": "2 GamedevSociety/Projects.md"
               }
             }
           }
@@ -134,15 +134,15 @@
   },
   "active": "cf3acc5b18d2f975",
   "lastOpenFiles": [
-    "5 Projects/Circuit Game/Interactive Circuit Game.md",
-    "5 Projects/Circuit Game/Interectiver Circuit Game Server.md",
-    "5 Projects/Circuit Game/Models.md",
-    "5 Projects/Circuit Game/ToDo.md",
-    "5 Projects/Triger.md",
-    "5 Projects/Portfolio Blog.md",
-    "5 Projects/IITJ Vote.md",
-    "5 Projects/Flappy Bird.md",
-    "5 Projects/Circuit Maverick.md",
-    "5 Projects/Astu Website.md"
+    "2 GamedevSociety/Projects.md",
+    "2 GamedevSociety/Game Paper/Presentation Of Design Credit.md",
+    "2 GamedevSociety/Game Paper/Octalysis.md",
+    "2 GamedevSociety/Game Paper/Documantation.md",
+    "2 GamedevSociety/Game Paper/Bibiliography.md",
+    "2 GamedevSociety/Game Paper/Assets.md",
+    "3 Study/Data Structure & Algorithms/Algorithms.md",
+    "3 Study/Data Structure & Algorithms/Questions.md",
+    "3 Study/Books/Modern Python  Cookbook.md",
+    "1 Daily/00 Workout Log.md"
   ]
 }
