@@ -1628,7 +1628,7 @@ a.tag[href*="#待完成"] {
   color: #ee6a96;
 }
 
-a.tag[href*="#working-draft"],
+a.tag[href*="#RemindMe"],
 a.tag[href*="#进行中"] {
   background-color: #4d3ca6;
   color: #fff;
@@ -1668,16 +1668,15 @@ a.tag[href*="#文章"] {
   color: #fff;
 }
 
-.tag[href*="#ReadLater"]{
+.tag[href*="#ReadLater"] {
   background-color: #005792;
   color: #fff;
 }
 
-.tag[href*="#WatchLater"]{
+.tag[href*="#WatchLater"] {
   background-color: #005792;
   color: #fff;
 }
-
 
 .cm-s-obsidian
   .CodeMirror-line
@@ -1708,4 +1707,3 @@ a.tag[href*="#想法"] {
 .tag[href^="#inprogress"] {
   background-color: orange;
 }
-

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cf3acc5b18d2f975",
+        "id": "67a74bdb62f7ac12",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 Study/Book/Python Cookbook.md",
+            "file": "readme.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Study/Book/Python Cookbook.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Study/Book/Python Cookbook.md"
+                "file": "readme.md"
               }
             }
           }
@@ -132,17 +132,17 @@
     "width": 288,
     "collapsed": true
   },
-  "active": "cf3acc5b18d2f975",
+  "active": "67a74bdb62f7ac12",
   "lastOpenFiles": [
-    "3 Study/Book/Python Cookbook.md",
-    "3 Study/Data Structure & Algorithms/Algorithms.md",
-    "2 GamedevSociety/Sequelize Documentation.md",
-    "2 GamedevSociety/Projects.md",
-    "2 GamedevSociety/Game Paper/Presentation Of Design Credit.md",
-    "2 GamedevSociety/Game Paper/Octalysis.md",
-    "2 GamedevSociety/Game Paper/Documantation.md",
-    "2 GamedevSociety/Game Paper/Bibiliography.md",
-    "2 GamedevSociety/Game Paper/Assets.md",
-    "3 Study/Data Structure & Algorithms/Questions.md"
+    "readme.md",
+    "1 Daily/Diary/Daily Notes/2022-06-10.md",
+    "1 Daily/Diary/Daily Notes/2022-06-21.md",
+    "1 Daily/00 Tasks Log.md",
+    "1 Daily/00 New Discoveries Log.md",
+    "1 Daily/00 Ship's Log.md",
+    "1 Daily/Diary/Daily Notes/2022-06-22.md",
+    "1 Daily/Diary/Daily Notes/2022-06-23.md",
+    "1 Daily/Diary/Daily Notes/2022-06-25.md",
+    "1 Daily/Diary/Daily Notes/2022-06-26.md"
   ]
 }

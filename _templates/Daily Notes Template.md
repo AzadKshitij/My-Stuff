@@ -3,7 +3,7 @@ Title:
 tags: [daily]
 ---
 
-<- [[00 Daily Notes Hub | Daily Notes Hub]]
+<- [[1 Daily/00 Daily Notes Hub| Daily Notes Hub]]
 
 # {{date:YYYY-MM-DD}}
 ```dataviewjs
@@ -27,16 +27,15 @@ p.forEach(function (p, i) {
         prev = p;
     }
 });
-nav.push(prev ? '[[' + prev[0] + ']]' : none);
+nav.push(prev ? '1 Daily/Diary/Daily Notes/[[' + prev[0] + ']]' : none);
 //nav.push(today ? today[0] : none);
 nav.push(today ? today[0] : current);
-nav.push(next ? '[[' + next[0] + ']]' : none);
+nav.push(next ? '1 Daily/Diary/Daily Notes/[[' + next[0] + ']]' : none);
 
 //dv.list(nav);
 //dv.paragraph(nav.join(" · "));
 dv.paragraph(nav[0] + ' ← ' + nav[1] + ' → ' + nav[2]);
 ```
-
 - Summary:: 
 
 ## 💡 New Discoveries

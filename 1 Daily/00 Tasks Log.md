@@ -10,19 +10,21 @@ All pending tasks listed from the Daily Notes go here!
 ---
 ```tasks
 not done
-description includes "RemindMe"
-path includes "1 Daily/Diary/Daily Notes"
+description includes RemindMe
+path includes Diary/Daily Notes
 ```
 
-
-
-## Read Later
----
 ```tasks
 not done
 description includes ReadLater
 path includes Diary/Daily Notes
 ```
+
+
+
+
+## Read Later
+---
 
 ## Watch Later
 ---
@@ -31,3 +33,5 @@ not done
 description includes WatchLater
 path includes Diary/Daily Notes
 ```
+
+[]()
