@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "67a74bdb62f7ac12",
+        "id": "b54c96f86c37e59f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "5 Projects/All.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "5 Projects/All.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "5 Projects/All.md"
               }
             }
           }
@@ -132,17 +132,17 @@
     "width": 288,
     "collapsed": true
   },
-  "active": "67a74bdb62f7ac12",
+  "active": "b54c96f86c37e59f",
   "lastOpenFiles": [
-    "readme.md",
-    "1 Daily/Diary/Daily Notes/2022-06-10.md",
-    "1 Daily/Diary/Daily Notes/2022-06-21.md",
-    "1 Daily/00 Tasks Log.md",
-    "1 Daily/00 New Discoveries Log.md",
-    "1 Daily/00 Ship's Log.md",
-    "1 Daily/Diary/Daily Notes/2022-06-22.md",
-    "1 Daily/Diary/Daily Notes/2022-06-23.md",
-    "1 Daily/Diary/Daily Notes/2022-06-25.md",
-    "1 Daily/Diary/Daily Notes/2022-06-26.md"
+    "5 Projects/All.md",
+    "5 Projects/Astu App.md",
+    "1 Daily/00 Daily Notes Hub.md",
+    "1 Daily/Diary/Daily Notes/2022-06-29.md",
+    "_templates/Daily Notes Template.md",
+    "3 Study/Data Structure & Algorithms/Questions.md",
+    "3 Study/Data Structure & Algorithms/Algorithms.md",
+    "3 Study/Book/Python Cookbook.md",
+    "5 Projects/Circuit Game/DialogueSystem.md",
+    "5 Projects/Circuit Game/Extra Credits.md"
   ]
 }
