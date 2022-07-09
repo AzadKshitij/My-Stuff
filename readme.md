@@ -5,7 +5,7 @@
 - [00 Media Log](app://obsidian.md/1%20Daily/00%20Media%20Log.md)
 - [00 New Discoveries Log](app://obsidian.md/1%20Daily/00%20New%20Discoveries%20Log.md)
 - [00 Ship's Log](app://obsidian.md/1%20Daily/00%20Ship's%20Log.md)
-- [00 Tasks Log](app://obsidian.md/1%20Daily/00%20Tasks%20Log.md)
+- [[1 Daily/00 Tasks Log]]
 - [00 Workout Log](app://obsidian.md/1%20Daily/00%20Workout%20Log.md)
 
 ## Study

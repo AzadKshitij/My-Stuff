@@ -17,7 +17,7 @@ sort file.name desc
 ```
 
 
-
+# Links
 ```dataview
 table URL as "Log"
 from "1 Daily/Diary/Daily Notes"

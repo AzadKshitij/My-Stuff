@@ -8,7 +8,7 @@
 
 > [!note]
 > It's important to note that float values are really approximations. The Python syntax allows us to write numbers as decimal values; however, that's not how they're processed internally.
-> 💡 Remember to remove the **` backticks(```) `** in the inline fields below if you want to activate them!
+> 💡 Remember to remove the ** backticks(```) ** in the inline fields below if you want to activate them!
 
 - `NewDiscovery::`
   - Enter this inline field to add an entry in the [[1 Daily/00 New Discoveries Log]]
@@ -38,7 +38,6 @@
   - Daily research done on the internet (Entered by extension on browser)
 
 ## Log Notes Dataview Codes
-
 ---
 
 > 💡 Remove the space between the three **` backticks (```) `** and the `dataview` or `tasks` word if you want to activate the codes below!
@@ -174,3 +173,4 @@ table WorkoutLog as "Log"
 from "Diary/Daily Notes"
 where contains(WorkoutLog, "")
 ```
+
