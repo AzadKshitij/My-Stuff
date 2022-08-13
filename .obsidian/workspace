@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "89b627d76dd9368d",
+        "id": "417432b72189a522",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 Study/Computer Graphics/Vertex Buffer.md",
+            "file": "1 Daily/Diary/Daily Notes/2022-08-13.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245,
-    "collapsed": true
+    "width": 245
   },
   "right": {
     "id": "50ad3cf652756c7a",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Study/Computer Graphics/Vertex Buffer.md",
+                "file": "1 Daily/Diary/Daily Notes/2022-08-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Study/Computer Graphics/Vertex Buffer.md"
+                "file": "1 Daily/Diary/Daily Notes/2022-08-13.md"
               }
             }
           }
@@ -133,17 +132,17 @@
     "width": 288,
     "collapsed": true
   },
-  "active": "89b627d76dd9368d",
+  "active": "417432b72189a522",
   "lastOpenFiles": [
-    "3 Study/Computer Graphics/Vertex Buffer.md",
-    "1 Daily/Diary/Daily Notes/2022-07-09.md",
     "readme.md",
-    "1 Daily/_Start Here.md",
-    "1 Daily/00 New Discoveries Log.md",
-    "1 Daily/00 Ship's Log.md",
-    "3 Study/Data Structure & Algorithms/Algorithms.md",
-    "1 Daily/Diary/Daily Notes/2022-07-08.md",
-    "Why Should We Hire You.md",
-    "1 Daily/Diary/Daily Notes/2022-07-06.md"
+    "Compnies to Check.md",
+    "1 Daily/Diary/Daily Notes/2022-08-12.md",
+    "docs.gl.md",
+    "Home.md",
+    "1 Daily/Diary/Daily Notes/2022-08-09.md",
+    "1 Daily/Diary/Daily Notes/2022-08-06.md",
+    "1 Daily/Diary/Daily Notes/2022-08-04.md",
+    "1 Daily/00 Media Log.md",
+    "1 Daily/00 Daily Notes Hub.md"
   ]
 }

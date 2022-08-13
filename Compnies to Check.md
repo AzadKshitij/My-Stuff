@@ -1,0 +1,11 @@
+- Airtel
+- Urban Company
+- Booking.com
+- https://careers-prolifics.icims.com/jobs/intro?hashed=-435775195
+- https://gridraster.com/careers-jobs/
+- https://www.drishya.ai/contact-us
+- https://www.zomato.com/careers
+- https://www.sms-datatech.co.jp/
+- https://careers.swiggy.com/#/careers?src%3Dcareers=&career_page_category%3DTechnology%26p%3DeyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjY0NzYsInJlcXVlc3RlciI6eyJpZCI6IiIsImNvZGUiOiIiLCJuYW1lIjoiIn0sInBhZ2UiOiJjYXJlZXJzIiwiYnVmaWx0ZXIiOi0xLCJjdXN0b21GaWVsZHMiOnsiY2FyZWVyX3BhZ2VfY2F0ZWdvcnkiOiJUZWNobm9sb2d5In19=
+- https://www.datacamp.com/
+- https://jobs.deta.sh/roles/junior-platform-engineer
