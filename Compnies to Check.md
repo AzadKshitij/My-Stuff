@@ -9,3 +9,9 @@
 - https://careers.swiggy.com/#/careers?src%3Dcareers=&career_page_category%3DTechnology%26p%3DeyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjY0NzYsInJlcXVlc3RlciI6eyJpZCI6IiIsImNvZGUiOiIiLCJuYW1lIjoiIn0sInBhZ2UiOiJjYXJlZXJzIiwiYnVmaWx0ZXIiOi0xLCJjdXN0b21GaWVsZHMiOnsiY2FyZWVyX3BhZ2VfY2F0ZWdvcnkiOiJUZWNobm9sb2d5In19=
 - https://www.datacamp.com/
 - https://jobs.deta.sh/roles/junior-platform-engineer
+- https://www.newzera.com/job-description?job_id=474949494
+- https://kore.ai/careers/
+- https://deepnote.com/join-us 
+- https://jobs.bytedance.com/en/position?keywords=&category=&location=&project=&type=3&job_hot_flag=&current=1&limit=10&functionCategory=
+- https://webflow.com/careers/roles
+- https://www.marshmallow.com/jobs#openings
