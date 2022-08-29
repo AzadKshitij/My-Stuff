@@ -6,19 +6,19 @@ kanban-plugin: basic
 
 ## ToDo
 
-- [ ] All user Actions
-- [ ] Combination for user inputs
-- [ ] Save all information to database [[Save to Database]]
-- [ ] Check fields and save to database. [[Database Drawing]]
 
 
 ## In Progress
 
-- [ ] Create a none card for fields
 
 
 ## Done
 
+- [x] Check fields and save to database. [[Database Drawing]]
+- [x] Save all information to database [[Save to Database]]
+- [x] Combination for user inputs
+- [x] Create a none card for fields
+- [x] All user Actions
 - [x] manage ids of every field in database
 - [x] Handle empty topic list
 - [x] [[Get the topics related to class and subject  @{2022-05-24}]] #speedlabs ^z6lcsg

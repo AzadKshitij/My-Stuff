@@ -15,3 +15,6 @@
 - https://jobs.bytedance.com/en/position?keywords=&category=&location=&project=&type=3&job_hot_flag=&current=1&limit=10&functionCategory=
 - https://webflow.com/careers/roles
 - https://www.marshmallow.com/jobs#openings
+- https://www.avataar.ai/contact-us
+- https://www.pinelabs.com/
+- https://apply.workable.com/velotio/#jobs

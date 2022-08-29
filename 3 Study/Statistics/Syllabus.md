@@ -1,8 +1,8 @@
 # [Syllabus](https://www.youtube.com/watch?v=TUn-prncFfU)
 
-1. Probability
-2. Population & Sample
-3. 3M (Mean, Median, Mode) & Variance, Standard, Deviation
+1. Probability ([[3 Study/Statistics/Probability]]) 
+2. Population & Sample ([[3 Study/Statistics/Population & Sample]])
+3. [[3 Study/Statistics/3M |3M]] (Mean, Median, Mode) & Variance, Standard Deviation
 4. Population Mean and Sample Mean
 5. Sampling Methods and Variables 
 6. Variable Measurement Scales
