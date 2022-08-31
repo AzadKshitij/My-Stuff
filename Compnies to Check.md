@@ -18,3 +18,4 @@
 - https://www.avataar.ai/contact-us
 - https://www.pinelabs.com/
 - https://apply.workable.com/velotio/#jobs
+- https://www.mymoneykarma.com/contact.html

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Compnies to Check.md",
+            "file": "1 Daily/Diary/Daily Notes/2022-08-31.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compnies to Check.md",
+                "file": "1 Daily/Diary/Daily Notes/2022-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compnies to Check.md"
+                "file": "1 Daily/Diary/Daily Notes/2022-08-31.md"
               }
             }
           }
@@ -135,15 +135,15 @@
   },
   "active": "e723a893cbda94e1",
   "lastOpenFiles": [
-    "1 Daily/Diary/Daily Notes/2022-08-29.md",
     "3 Study/Software Data Engineering/Baiscs of R Programming.md",
+    "3 Study/Software Data Engineering/Architecture.md",
+    "3 Study/Software Data Engineering/Availability.md",
+    "3 Study/Software Data Engineering/Patterns.md",
+    "1 Daily/Diary/Daily Notes/2022-08-31.md",
+    "Compnies to Check.md",
+    "1 Daily/Diary/Daily Notes/2022-08-29.md",
     "1 Daily/Diary/Daily Notes/2022-08-28.md",
     "3 Study/Data Structure & Algorithms/Drawing 2022-08-28 12.51.11.excalidraw 1.md",
-    "3 Study/Data Structure & Algorithms/2391. Minimum Amount of Time to Collect Garbage.md",
-    "3 Study/Data Structure & Algorithms/2384. Largest Palindromic Number.md",
-    "1 Daily/Diary/Daily Notes/2022-08-27.md",
-    "3 Study/Data Structure & Algorithms/2385. Amount of Time for Binary Tree to Be Infected.md",
-    "3 Study/Data Structure & Algorithms/Untitled.md",
-    "1 Daily/Diary/Daily Notes/2022-08-26.md"
+    "3 Study/Data Structure & Algorithms/2391. Minimum Amount of Time to Collect Garbage.md"
   ]
 }
