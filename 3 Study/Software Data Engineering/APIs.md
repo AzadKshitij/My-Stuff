@@ -21,9 +21,12 @@ These are used to authorize users to make the API call. Authentication tokens ch
 
 #### Session token
 
-The session token, also known as a sessionID, is **an encrypted, unique string that identifies the specific session instance**.
+- The session token, also known as a sessionID, is **an encrypted, unique string that identifies the specific session instance**.
+- It has a lifetime.
 
 ### 2. API keys 
 
-API keys verify the program or application making the API call. They identify the application and ensure it has the access rights required to make the particular API call. API keys are not as secure as tokens but they allow API monitoring in order to gather data on usage. You may have noticed a long string of characters and numbers in your browser URL when you visit different websites. This string is an API key the website uses to make internal API calls.
+- API keys verify the program or application making the API call. They identify the application and ensure it has the access rights required to make the particular API call. API keys are not as secure as tokens but they allow API monitoring in order to gather data on usage. You may have noticed a long string of characters and numbers in your browser URL when you visit different websites. This string is an API key the website uses to make internal API calls.
+
+- Don't Have a lifetime.
 
