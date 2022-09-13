@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 Study/Software Data Engineering/Patterns.md",
+            "file": "3 Study/Software Data Engineering/APIs.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
+    "width": 235.5,
     "collapsed": true
   },
   "right": {
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Study/Software Data Engineering/Patterns.md",
+                "file": "3 Study/Software Data Engineering/APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Study/Software Data Engineering/Patterns.md"
+                "file": "3 Study/Software Data Engineering/APIs.md"
               }
             }
           }
@@ -136,15 +136,15 @@
   },
   "active": "e723a893cbda94e1",
   "lastOpenFiles": [
-    "3 Study/Software Data Engineering/Architecture.md",
-    "1 Daily/Diary/Daily Notes/2022-09-01.md",
-    "1 Daily/Diary/Daily Notes/2022-08-31.md",
-    "3 Study/Software Data Engineering/Baiscs of R Programming.md",
-    "3 Study/Software Data Engineering/Availability.md",
     "3 Study/Software Data Engineering/Patterns.md",
-    "Compnies to Check.md",
-    "1 Daily/Diary/Daily Notes/2022-08-29.md",
-    "1 Daily/Diary/Daily Notes/2022-08-28.md",
-    "3 Study/Data Structure & Algorithms/Drawing 2022-08-28 12.51.11.excalidraw 1.md"
+    "1 Daily/Diary/Daily Notes/2022-09-13.md",
+    "2 GamedevSociety/Inae Events.md",
+    "1 Daily/Diary/Daily Notes/2022-09-11.md",
+    "2 GamedevSociety/Projects.md",
+    "Excalidraw/Drawing 2022-08-23 11.16.47.excalidraw.md",
+    "1 Daily/Diary/Daily Notes/2022-09-08.md",
+    "3 Study/Drawing 2022-09-07 20.49.08.excalidraw.md",
+    "1 Daily/Diary/Daily Notes/2022-09-07.md",
+    "1 Daily/Diary/Daily Notes/2022-09-04.md"
   ]
 }
