@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 Study/Software Data Engineering/APIs.md",
+            "file": "3 Study/Health what to speak.md",
             "mode": "source",
             "source": false
           }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Study/Software Data Engineering/APIs.md",
+                "file": "3 Study/Health what to speak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Study/Software Data Engineering/APIs.md"
+                "file": "3 Study/Health what to speak.md"
               }
             }
           }
@@ -136,15 +136,15 @@
   },
   "active": "e723a893cbda94e1",
   "lastOpenFiles": [
+    "1 Daily/Diary/Daily Notes/2022-09-19.md",
+    "3 Study/Health what to speak.md",
+    "3 Study/Health.md",
+    "1 Daily/Diary/Daily Notes/2022-09-18.md",
+    "1 Daily/Diary/Daily Notes/2022-09-17.md",
+    "3 Study/Software Data Engineering/APIs.md",
     "3 Study/Software Data Engineering/Patterns.md",
     "1 Daily/Diary/Daily Notes/2022-09-13.md",
     "2 GamedevSociety/Inae Events.md",
-    "1 Daily/Diary/Daily Notes/2022-09-11.md",
-    "2 GamedevSociety/Projects.md",
-    "Excalidraw/Drawing 2022-08-23 11.16.47.excalidraw.md",
-    "1 Daily/Diary/Daily Notes/2022-09-08.md",
-    "3 Study/Drawing 2022-09-07 20.49.08.excalidraw.md",
-    "1 Daily/Diary/Daily Notes/2022-09-07.md",
-    "1 Daily/Diary/Daily Notes/2022-09-04.md"
+    "1 Daily/Diary/Daily Notes/2022-09-11.md"
   ]
 }
