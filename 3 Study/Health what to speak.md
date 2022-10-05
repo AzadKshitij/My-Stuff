@@ -1,3 +1,4 @@
+- Hello everyone im kshitij this is group 3 presentation. 
 - *There are three major part in financing GOvenment, Out of pocket, other .*
 - Domestic health funding is very low in the poorest countries
 - Nearly 40% of health spending comes out of the pockets of patients themselves which leads to high level of catastrophic health expenditures and medical impoverishment.

@@ -1,0 +1,1 @@
+The latest trend in the software industry is the integration of artificial intelligence (AI) capabilities based on advances in machine learning. Broadly speaking, AI encompasses technologies for reasoning, problem solving, planning, and learning, among others. Companies uses machine learning to create software tools like virtual assistant, translator for real-time translation, 

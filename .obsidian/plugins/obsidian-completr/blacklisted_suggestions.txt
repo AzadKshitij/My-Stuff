@@ -14,3 +14,5 @@ NewDiscovery
 crU
 CRU
 CRUD
+MongoDB
+MongoVue

@@ -4,14 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e723a893cbda94e1",
+        "id": "d354e1d2e9748c6d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "3 Study/Health what to speak.md",
-            "mode": "source",
-            "source": false
+            "file": "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md"
+          }
+        }
+      },
+      {
+        "id": "475932252fa84631",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "diagrams/twitter.excalidraw"
           }
         }
       }
@@ -62,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "50ad3cf652756c7a",
@@ -80,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Study/Health what to speak.md",
+                "file": "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Study/Health what to speak.md"
+                "file": "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md"
               }
             }
           }
@@ -134,17 +141,17 @@
     "width": 288,
     "collapsed": true
   },
-  "active": "e723a893cbda94e1",
+  "active": "d354e1d2e9748c6d",
   "lastOpenFiles": [
-    "1 Daily/Diary/Daily Notes/2022-09-19.md",
-    "3 Study/Health what to speak.md",
-    "3 Study/Health.md",
-    "1 Daily/Diary/Daily Notes/2022-09-18.md",
-    "1 Daily/Diary/Daily Notes/2022-09-17.md",
-    "3 Study/Software Data Engineering/APIs.md",
-    "3 Study/Software Data Engineering/Patterns.md",
-    "1 Daily/Diary/Daily Notes/2022-09-13.md",
-    "2 GamedevSociety/Inae Events.md",
-    "1 Daily/Diary/Daily Notes/2022-09-11.md"
+    "diagrams/scaling.excalidraw",
+    "diagrams/twitter.excalidraw",
+    "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md",
+    "diagrams/url-shortener.excalidraw",
+    "diagrams/whatsapp.excalidraw",
+    "diagrams/virtualization-containerization.excalidraw",
+    "diagrams/api-gateway.excalidraw",
+    "3 Study/Software Data Engineering/Project/Drawings.md",
+    "3 Study/Software Data Engineering/Baiscs of R Programming.md",
+    "3 Study/Software Data Engineering/Patterns.md"
   ]
 }

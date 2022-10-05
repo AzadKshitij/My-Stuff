@@ -19,3 +19,4 @@
 - https://www.pinelabs.com/
 - https://apply.workable.com/velotio/#jobs
 - https://www.mymoneykarma.com/contact.html
+- https://www.leadsquared.com/open-positions/
