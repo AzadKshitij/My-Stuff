@@ -4,22 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d354e1d2e9748c6d",
+        "id": "78816210108be039",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md"
-          }
-        }
-      },
-      {
-        "id": "475932252fa84631",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "diagrams/twitter.excalidraw"
+            "file": "3 Study/Software Data Engineering/Exam2.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -87,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md",
+                "file": "3 Study/Software Data Engineering/Exam2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md"
+                "file": "3 Study/Software Data Engineering/Exam2.md"
               }
             }
           }
@@ -141,17 +133,17 @@
     "width": 288,
     "collapsed": true
   },
-  "active": "d354e1d2e9748c6d",
+  "active": "78816210108be039",
   "lastOpenFiles": [
-    "diagrams/scaling.excalidraw",
-    "diagrams/twitter.excalidraw",
-    "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md",
-    "diagrams/url-shortener.excalidraw",
-    "diagrams/whatsapp.excalidraw",
-    "diagrams/virtualization-containerization.excalidraw",
-    "diagrams/api-gateway.excalidraw",
-    "3 Study/Software Data Engineering/Project/Drawings.md",
-    "3 Study/Software Data Engineering/Baiscs of R Programming.md",
-    "3 Study/Software Data Engineering/Patterns.md"
+    "3 Study/Software Data Engineering/RDBMS.md",
+    "3 Study/Software Data Engineering/Exam2.md",
+    "3 Study/Software Data Engineering/Assignment/Technical Writup.md",
+    "1 Daily/Diary/Daily Notes/2022-10-13.md",
+    "3 Study/Software Data Engineering/Assignment/TechReport.md",
+    "1 Daily/Diary/Daily Notes/2022-10-12.md",
+    "About My Self.md",
+    "1 Daily/Diary/Daily Notes/2022-10-10.md",
+    "3 Study/Software Data Engineering/Assignment/Assignment3.md",
+    "3 Study/Software Data Engineering/Assignment/3.md"
   ]
 }

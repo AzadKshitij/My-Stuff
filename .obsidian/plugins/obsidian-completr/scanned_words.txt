@@ -771,6 +771,7 @@ HZdmtGJn
 HPcp
 HNrRMRzGcJT
 HBSCAAAIIIIAAAggggAACCCCwCQEaWEyNeSuQSvmHeKLXuQ
+Had
 from
 for
 frontend
@@ -1811,6 +1812,7 @@ fxNd
 fWHisXiM
 fdPpjZ
 fpOj
+farms
 Cover
 CSS
 Create
@@ -3665,6 +3667,9 @@ PZSNVjicg
 PDc
 PfXTrMS
 PUhGlMr
+Pandas
+PySpark
+Pyspark
 Greetings
 Game
 Graphic
@@ -5713,6 +5718,13 @@ seFyJ
 sPrw
 sWuQ
 sommnQZSW
+stock
+stocks
+startup
+surpass
+spoke
+sophisticated
+smart
 Slide
 Society
 So
@@ -6721,6 +6733,8 @@ SOAAAIIIIAAAggggAACCCBAA
 SRwABBBBAAAEEEEAAAQQQQGCTAjSwmBzzViDT
 SaQCVR
 SUf
+Stock
+SpeEdLabs
 we
 world
 what
@@ -8611,6 +8625,12 @@ arwRlOl
 aKHe
 aqpe
 aMXdYcgRJmM
+ablebits
+addins
+agency
+acuity
+analyzing
+analyzes
 gamers
 games
 giving
@@ -9477,6 +9497,7 @@ gUCUQMr
 gvQwGq
 gMAEAX
 gNjTHymAA
+gave
 programmers
 part
 player
@@ -10639,6 +10660,11 @@ pcEfhbtfrIH
 pVierTLACpWKFWDAZdrIHcEEEAAAQQQQAABBBBAAAEEtiRAA
 pihgKFbKbubQMCxC
 pgLMV
+pandas
+pyspark
+predicted
+possibilities
+predicts
 create
 can
 comes
@@ -11977,6 +12003,11 @@ cNlDJPw
 cyB
 cuX
 cqgfMb
+cant
+communities
+customized
+conclusion
+conclusions
 our
 own
 obviously
@@ -13703,6 +13734,7 @@ vlwN
 viOlfOW
 vMswKvJMqVrcweUayB
 vPs
+vehicles
 never
 now
 no
@@ -14586,6 +14618,7 @@ neu
 nKOL
 nScaling
 nwMjtDHZ
+nifty
 leave
 level
 like
@@ -16607,6 +16640,11 @@ ipgc
 iET
 isXig
 iMrvQWip
+indices
+internships
+influencing
+industries
+infer
 Everyone
 Express
 Etiam
@@ -17491,6 +17529,8 @@ EJI
 EUAAAQQQQAABBBBAAAEEEJgoQAOLOTHvBTIZ
 EEEAAAQQQQAABBBBAAAEEaGAxBxCYIJDp
 EqyaKMED
+EdTech
+Experts
 this
 there
 testers
@@ -18528,6 +18568,10 @@ tERHPZRRVPblUKVzkcg
 tEpMuRlCdP
 tLQny
 tcoKm
+trading
+translations
+threaten
+teaches
 Dev
 Designers
 Development
@@ -19416,6 +19460,7 @@ DtJHAAEEEEAAAQQQQAABBBBA
 DJZHolTLwgIk
 DyCCCAAAIIIIAAAggggAACCGxBgAYWU
 DbY
+Dataset
 Kshitij
 Kernel
 Ka
@@ -21010,6 +21055,7 @@ hMoPypXi
 hZH
 horu
 hvP
+historical
 Mayank
 Modal
 Management
@@ -21846,6 +21892,7 @@ MNzPXxCGSzB
 MSdOYDARIF
 MvmXVqvydrtdB
 MBiWiAgItlU
+Market
 We
 Why
 Working
@@ -23695,6 +23742,9 @@ dELggggAACCCCAwFwIdEwDazxe
 dZSafdboIlSfKleKuTtdA
 dNL
 dYiYHitrW
+debashis
+dataframes
+dataframe
 be
 by
 become
@@ -24645,6 +24695,9 @@ byILmxm
 bFU
 biUjhCCCAAAIIIIAAAggggAACWxRw
 bqVc
+bots
+brain
+buildings
 music
 most
 more
@@ -25674,6 +25727,9 @@ mhZ
 mtUA
 mpktcLtBML
 mItVP
+merge
+min
+mimic
 Basically
 By
 Backend
@@ -26516,6 +26572,7 @@ BBBBAAAEEEEAAAQQQQACBTQnQwGJuzGuB
 BnJHAAEEEEAAAQQQQAABBBBAYEsCNLC
 BrcQAAAABJRU
 Bec
+Building
 jam
 join
 justo
@@ -28390,6 +28447,8 @@ rdcr
 roFxyHGV
 rMlsiMCg
 rkO
+ranging
+retail
 After
 Artist
 And
@@ -29305,6 +29364,8 @@ AAAggggAACCCCAAAIIILAZAVZgMT
 ARpYzI
 AAAggggAACCCCAAAIIILAlARpYWxLi
 Authors
+Analysis
+Artificial
 Obviously
 Obsidian
 OPTIONS
@@ -31818,6 +31879,7 @@ ugAAQQQAABBBBAAAEEEEAAAQRGBWhgMRUQGBVIp
 uTCfz
 upg
 uWGx
+understands
 excited
 experienced
 earliest
@@ -32859,6 +32921,8 @@ ehvXdo
 eVKcW
 eOlSvErrR
 egEpzrcg
+excel
+enjoy
 Idea
 If
 Integer
@@ -35405,6 +35469,7 @@ JbfL
 JGm
 JMTXO
 JzCvISA
+Jan
 Full
 For
 Fw
@@ -36260,6 +36325,7 @@ FKBZfst
 FaGDN
 FoX
 Flow
+Feb
 you
 year
 your
@@ -38727,6 +38793,7 @@ NkakdUKsH
 NDvePDdHV
 NdroHcEUAAAQQQQAABBBBAAAEEEBgToIHFXEBgYgMrlbtXRJxeveSZXhDUCh
 NyuOc
+Nifty
 Vivamus
 VDc
 VIEW

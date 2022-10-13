@@ -3,7 +3,6 @@
   "calendar",
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
-  "cm-editor-syntax-highlight-obsidian",
   "dataview",
   "obsidian-completr",
   "obsidian-advanced-slides",
@@ -16,5 +15,6 @@
   "obsidian-icon-folder",
   "nldates-obsidian",
   "homepage",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-code-block-enhancer"
 ]
