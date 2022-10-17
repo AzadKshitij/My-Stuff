@@ -1,7 +1,9 @@
 {
   "baseFontSize": 16,
   "enabledCssSnippets": [],
-  "cssTheme": "K'Obsidianite",
+  "cssTheme": "Things",
   "translucency": false,
-  "monospaceFontFamily": "Fira Code"
+  "monospaceFontFamily": "Fira Code",
+  "accentColor": "#8769e8",
+  "theme": "system"
 }

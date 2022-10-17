@@ -5,4 +5,7 @@
 	1. These service provider provides their own way of storing the environment variables and we can use them directly
 	2. These service also provide Secret keys that can be used to decrypt environment variables stored within the app it self.
 2. Encryption.
-	1. Encrypt your environment variable with public and private encryption key. Give public key to Developer 
+	1. Encrypt your environment variable with public and private encryption key. Give public key to Developer and keep the private key...
+	2. Someone with public key can only read the database and need private key to make any write/put operation to the database.
+	3. .
+

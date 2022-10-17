@@ -8,9 +8,6 @@ The Ship's Log is divided into two sections: **Life Happenings** and **Personal 
 
 Life Happenings for any event and accomplishments made. Personal Projects is for anything related to a non-work project that you do (i.e. blog, YouTube video, streaming)
 
-
-
-
 ## Life Happenings
 ---
 

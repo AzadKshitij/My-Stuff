@@ -7,7 +7,7 @@
 A log containing the interesting discoveries from the Daily Notes.
 
 
-## List
+# List
 ---
 ```dataview
 table NewDiscovery as "Log"
@@ -15,6 +15,8 @@ from "1 Daily/Diary/Daily Notes"
 where contains(NewDiscovery, "")
 sort file.name desc
 ```
+
+
 
 
 # Links

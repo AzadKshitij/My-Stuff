@@ -4,16 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "78816210108be039",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1 Daily/Diary/Daily Notes/2022-10-13.md",
-            "mode": "source",
-            "source": false
+        "id": "2f34467b55b25f34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b652425348c3377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Study/Software Data Engineering/Assignment/Technical Writup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -39,7 +46,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -62,16 +71,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "50ad3cf652756c7a",
     "type": "split",
     "children": [
       {
+        "id": "b504a83a478209f3",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "d7a513eb16546fb5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "5c8ce4d6b4542a99",
         "type": "tabs",
-        "dimension": 49.352331606217625,
+        "dimension": 50,
         "children": [
           {
             "id": "10fd2eb0aa321675",
@@ -79,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Daily/Diary/Daily Notes/2022-10-13.md",
+                "file": "3 Study/Software Data Engineering/Assignment/Technical Writup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,43 +132,40 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Daily/Diary/Daily Notes/2022-10-13.md"
+                "file": "3 Study/Software Data Engineering/Assignment/Technical Writup.md"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "41a7d93c89486f4b",
-        "type": "tabs",
-        "dimension": 50.647668393782375,
-        "children": [
+          },
           {
-            "id": "d7a513eb16546fb5",
+            "id": "52da2995735493a2",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 288,
+    "width": 349.5,
     "collapsed": true
   },
-  "active": "78816210108be039",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "5b652425348c3377",
   "lastOpenFiles": [
-    "3 Study/Software Data Engineering/Youtube video.md",
-    "3 Study/Software Data Engineering/SQLServer.md",
-    "3 Study/Software Data Engineering/RDBMS.md",
-    "3 Study/Software Data Engineering/Exam2.md",
+    "1 Daily/Diary/Daily Notes/2022-10-17.md",
+    "1 Daily/Diary/Daily Notes/2022-10-16.md",
     "3 Study/Software Data Engineering/Assignment/Technical Writup.md",
-    "1 Daily/Diary/Daily Notes/2022-10-13.md",
     "3 Study/Software Data Engineering/Assignment/TechReport.md",
-    "1 Daily/Diary/Daily Notes/2022-10-12.md",
-    "About My Self.md",
-    "1 Daily/Diary/Daily Notes/2022-10-10.md"
+    "diagrams/enterprise-service-bus.excalidraw",
+    "pages/contents.md",
+    "Excalidraw/Drawing 2022-08-23 11.16.47.excalidraw.md",
+    "1 Daily/Diary/Daily Notes/2022-10-14.md",
+    "1 Daily/00 New Discoveries Log.md",
+    "1 Daily/Diary/Daily Notes/2022-10-13.md"
   ]
 }

@@ -589,5 +589,3 @@ please visit www.sei.cmu.edu
 as always if you have any questions please don't hesitate to email us at info sei.cmu.edu
 
 thank you [Music]
-
-
