@@ -1,6 +1,11 @@
 ![[Assets/WhatsApp Image 2022-09-28 at 22.52.30.jpg]]
 
 Assignment 3
+ Format for the Report:  
+   (i) YouTube link of benchmarking: create video while performing benchmarking, upload it on youtube and    
+        mention the link in the report, make sure the link is accessible.  
+  (ii) Technical Specifications of your system/laptop, Including L1 and L2 cache size.  
+ (iii) Mention metadata of the benchmarking data in tabular and graphical format.
 
 1. Dataset
 - The size of the [dataset](https://www.kaggle.com/datasets/debashis74017/stock-market-data-nifty-50-stocks-1-min-data) is 10.2 GB.
@@ -18,6 +23,7 @@ Assignment 3
 
 * Queries
 As pandas was not able to handle big data I used 600MB file to perform different queries to compare pandas and pyspark.
+
 
 ![[Assets/Pasted image 20221009225218.png]]
 

@@ -1,24 +1,18 @@
 
-[![RobIII](https://blog.riii.nl/header/blogger)](https://blog.robiii.nl/)
-
-
 # My Stuff
 ## SQL
 ```python
 python3 -m mssqlcli.main
+k247 for sa
+
 
 Declare @JSON varchar(max) SELECT @JSON=BulkColumn FROM OPENROWSET (BULK '/home/sanodariya_1/users.json', SINGLE_CLOB) import SELECT * FROM OPENJSON (@JSON)
-
-  
-  
-  
 
 DECLARE @sql varchar(1000)
 
 SET @sql = 'bcp "SELECT * FROM [user] ' +
     'FOR JSON PATH, INCLUDE_NULL_VALUES" ' +
     'queryout  "/home/sanodariya_1/user_sql.json" ' +
-
     '-c -S MACWIN2 -d WideWorldImporters -T'
 
 EXEC sys.XP_CMDSHELL @sql
@@ -36,6 +30,29 @@ GO
 |---------------------------------------------|
 | [{"name":"kshitij"}]                        |
 +---------------------------------------------+
+
+SELECT * FROM [user] FOR JSON AUTO, INCLUDE_NULL_VALUES
+GO
+
+%%
+SELECT 
+    CONCAT("[",
+        CONCAT("{name:'",name,"'}")
+    ,"]") 
+AS json FROM user
+%%
+
+```sql
+EXEC master xp_cmdshell'bcp "SELECT * FROM [user]" queryout "text.txt" -c -T -x'
+
+```sql
+EXEC master..xp_cmdshell 'bcp "SELECT * FROM [user]" queryout "text.txt" -c -T -x'
+```
+```
+
+
+
+
 ```
 
 ## Import to SQL
@@ -50,6 +67,25 @@ SELECT * FROM OPENROWSET (BULK 'C:\Users\azadk\Downloads\users.json', Single_CLO
 ## MongoDB
 
 `mongoexport collection db filename`
+
+```javascript
+mongo admin -u admin -p 'password'
+
+db.posts.find()
+
+mongoexport -u admin -p "password" --collection=users --db=admin --out=users_exported.json
+
+mongoimport -u admin -p "password" --collection=users --db=admin --type=json --file "/home/sanodariya_1/users_final.json"
+```
+
+```mongoDB
+
+
+
+
+mongoimport --host=127.0.0.1 -d database_name -c collection_name --type csv --file csv_location --headerline
+
+```
 
 
 
@@ -101,65 +137,6 @@ Posted by [RobIII](https://www.blogger.com/profile/04573618019707966117 "author
 [Email This](https://www.blogger.com/share-post.g?blogID=8639202304732503665&postID=1588110287015090131&target=email "Email This")[BlogThis!](https://www.blogger.com/share-post.g?blogID=8639202304732503665&postID=1588110287015090131&target=blog "BlogThis!")[Share to Twitter](https://www.blogger.com/share-post.g?blogID=8639202304732503665&postID=1588110287015090131&target=twitter "Share to Twitter")[Share to Facebook](https://www.blogger.com/share-post.g?blogID=8639202304732503665&postID=1588110287015090131&target=facebook "Share to Facebook")[Share to Pinterest](https://www.blogger.com/share-post.g?blogID=8639202304732503665&postID=1588110287015090131&target=pinterest "Share to Pinterest")
 
 Labels: [Debian](https://blog.robiii.nl/search/label/Debian), [Linux](https://blog.robiii.nl/search/label/Linux), [SQL Server](https://blog.robiii.nl/search/label/SQL%20Server)
-
-#### 1 comment:
-
-1.  ![](https://3.bp.blogspot.com/-l5_U3SCPzAs/XKPHzkj_wKI/AAAAAAAAVb8/ns55Ib1HSz8rHGsWjQbCUsb-IqFZ6mz6QCK4BGAYYCw/s35/profile_compressed.jpg)
-    
-    [RobIII](https://www.blogger.com/profile/04573618019707966117)[24 September, 2021 11:42](https://blog.robiii.nl/2021/09/install-microsoft-sql-server-on-debian.html?showComment=1632476524475#c8852760261599471346)
-    
-    I have found [a repository for Debian](https://packages.microsoft.com/config/debian/11/) but SQL Server doesn't seem to be available (yet).
-    
-    Reply
-    
-
-[](https://www.blogger.com/comment/frame/8639202304732503665?po=1588110287015090131&hl=en&blogspotRpcToken=7949850)
-
-[Newer Post](https://blog.robiii.nl/2021/11/using-data-protection-in-entity.html "Newer Post")[Older Post](https://blog.robiii.nl/2021/07/toshiba-airconditioner-wifi-troubles.html "Older Post")[Home](https://blog.robiii.nl/)
-
-Subscribe to: [Post Comments (Atom)](https://blog.robiii.nl/feeds/1588110287015090131/comments/default)
-
-[](http://robiii.me/ "RobIII's Picture")
-
-## Search This Blog
-
-## Blog Archive
-
--   ►  [2022](https://blog.robiii.nl/2022/) (1)
-
--   ▼  [2021](https://blog.robiii.nl/2021/) (6)
-    
-    -   ►  [December](https://blog.robiii.nl/2021/12/) (1)
-    
-    -   ►  [November](https://blog.robiii.nl/2021/11/) (1)
-    
-    -   ▼  [September](https://blog.robiii.nl/2021/09/) (1)
-        -   [Install Microsoft SQL Server on Debian](https://blog.robiii.nl/2021/09/install-microsoft-sql-server-on-debian.html)
-    
-    -   ►  [July](https://blog.robiii.nl/2021/07/) (2)
-    
-    -   ►  [May](https://blog.robiii.nl/2021/05/) (1)
-
--   ►  [2020](https://blog.robiii.nl/2020/) (3)
-
--   ►  [2019](https://blog.robiii.nl/2019/) (1)
-
--   ►  [2018](https://blog.robiii.nl/2018/) (1)
-
--   ►  [2015](https://blog.robiii.nl/2015/) (2)
-
--   ►  [2014](https://blog.robiii.nl/2014/) (1)
-
--   ►  [2013](https://blog.robiii.nl/2013/) (3)
-
--   ►  [2012](https://blog.robiii.nl/2012/) (4)
-
-## Contributors
-
--   [RobIII](https://www.blogger.com/profile/04573618019707966117)
--   [RobIII](https://www.blogger.com/profile/08788199644096540117)
-
-## Followers
 
 ## Labels
 

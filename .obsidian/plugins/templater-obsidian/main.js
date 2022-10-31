@@ -3978,39 +3978,22 @@ var Templater = class {
       if (file.path.includes(template_folder) && template_folder !== "/") {
         return;
       }
-      yield new Promise((resolve2) => {
-        let timeout;
-        const file_open_ref = app.workspace.on("file-open", (opened_file) => __async(this, null, function* () {
-          if (opened_file !== file) {
-            return;
-          }
-          window.clearTimeout(timeout);
-          app.workspace.offref(file_open_ref);
-          yield delay(300);
-          if (file.stat.size == 0 && templater.plugin.settings.enable_folder_templates) {
-            const folder_template_match = templater.get_new_file_template_for_folder(file.parent);
-            if (!folder_template_match) {
-              resolve2();
-              return;
-            }
-            const template_file = yield errorWrapper(() => __async(this, null, function* () {
-              return resolve_tfile(folder_template_match);
-            }), `Couldn't find template ${folder_template_match}`);
-            if (template_file == null) {
-              resolve2();
-              return;
-            }
-            yield templater.write_template_to_file(template_file, file);
-          } else {
-            yield templater.overwrite_file_commands(file);
-          }
-          resolve2();
-        }));
-        timeout = window.setTimeout(() => {
-          app.workspace.offref(file_open_ref);
-          resolve2();
-        }, 300);
-      });
+      yield delay(300);
+      if (file.stat.size == 0 && templater.plugin.settings.enable_folder_templates) {
+        const folder_template_match = templater.get_new_file_template_for_folder(file.parent);
+        if (!folder_template_match) {
+          return;
+        }
+        const template_file = yield errorWrapper(() => __async(this, null, function* () {
+          return resolve_tfile(folder_template_match);
+        }), `Couldn't find template ${folder_template_match}`);
+        if (template_file == null) {
+          return;
+        }
+        yield templater.write_template_to_file(template_file, file);
+      } else {
+        yield templater.overwrite_file_commands(file);
+      }
     });
   }
   execute_startup_scripts() {

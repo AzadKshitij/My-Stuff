@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "2f34467b55b25f34",
+        "id": "95c53408da607904",
         "type": "tabs",
         "children": [
           {
-            "id": "5b652425348c3377",
+            "id": "083583eb606f138f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Study/Software Data Engineering/Assignment/Technical Writup.md",
+                "file": "1 Daily/00 New Discoveries Log.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb608fdf1c228ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Daily/00 Tasks Log.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Study/Software Data Engineering/Assignment/Technical Writup.md",
+                "file": "1 Daily/00 New Discoveries Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Study/Software Data Engineering/Assignment/Technical Writup.md"
+                "file": "1 Daily/00 New Discoveries Log.md"
               }
             }
           },
@@ -152,20 +165,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "5b652425348c3377",
+  "active": "083583eb606f138f",
   "lastOpenFiles": [
-    "1 Daily/Diary/Daily Notes/2022-10-17.md",
-    "1 Daily/Diary/Daily Notes/2022-10-16.md",
-    "3 Study/Software Data Engineering/Assignment/Technical Writup.md",
-    "3 Study/Software Data Engineering/Assignment/TechReport.md",
-    "diagrams/enterprise-service-bus.excalidraw",
-    "pages/contents.md",
-    "Excalidraw/Drawing 2022-08-23 11.16.47.excalidraw.md",
-    "1 Daily/Diary/Daily Notes/2022-10-14.md",
+    "1 Daily/Removing Blank Daily Notes.md",
     "1 Daily/00 New Discoveries Log.md",
-    "1 Daily/Diary/Daily Notes/2022-10-13.md"
+    "1 Daily/Diary/Daily Notes/2022-08-22.md",
+    "1 Daily/Diary/Daily Notes/2022-08-04.md",
+    "1 Daily/00 Tasks Log.md",
+    "1 Daily/Diary/Daily Notes/2022-10-30.md",
+    "1 Daily/Diary/Daily Notes/2022-10-31.md",
+    "3 Study/Software Data Engineering/Assignment/ASSIGNMENT 2.md",
+    "3 Study/Software Data Engineering/SQLServer.md",
+    "1 Daily/Diary/Daily Notes/2022-10-29.md"
   ]
 }
