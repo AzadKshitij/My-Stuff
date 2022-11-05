@@ -16,9 +16,6 @@ where contains(NewDiscovery, "")
 sort file.name desc
 ```
 
-
-
-
 # Links
 ```dataview
 table URL as "Log"
