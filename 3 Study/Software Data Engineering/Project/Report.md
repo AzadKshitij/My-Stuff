@@ -1,4 +1,7 @@
 ---
+tags:
+	- SDE
+	- study
 ---
 
 %%
@@ -12,4 +15,8 @@
 ## Team Member Details
 - Name: Sandeep Swami
 - Roll No.: B19ME075
+
+
+## 
+
 

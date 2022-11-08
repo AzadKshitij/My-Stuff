@@ -15,8 +15,6 @@ LIMIT 7
 
 ## Archive List
 
----
-
 ### 2022
 
 ```dataview
