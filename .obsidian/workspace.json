@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9d3c2b9094927fef",
+        "id": "7cc659a3a6c09151",
         "type": "tabs",
         "children": [
           {
-            "id": "f1da4d8fe9446b0a",
+            "id": "56e45d7327e4d23b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Study/Software Data Engineering/Project/SDEProject.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69bbe0801d0487c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Projects/BTechGame/COnnecting To Raspberry PI.md",
+                "file": "3 Study/Software Data Engineering/Project/Report.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "50ad3cf652756c7a",
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Projects/BTechGame/COnnecting To Raspberry PI.md",
+                "file": "3 Study/Software Data Engineering/Project/Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Projects/BTechGame/COnnecting To Raspberry PI.md"
+                "file": "3 Study/Software Data Engineering/Project/Report.md"
               }
             }
           },
@@ -164,17 +151,17 @@
     "direction": "horizontal",
     "width": 349.5
   },
-  "active": "69bbe0801d0487c1",
+  "active": "56e45d7327e4d23b",
   "lastOpenFiles": [
-    "1 Daily/Diary/Daily Notes/2022-11-08.md",
-    "1 Daily/00 Daily Notes Hub.md",
-    "1 Daily/_Start Here.md",
+    "DashBoard.md",
+    "Pocket/Time  understand how you use it, create more of it, maximize it, and sustain it.md",
+    "Pocket/How to Get the Most Out of Pocket.md",
+    "About My Self.md",
+    "1 Daily/Diary/Daily Notes/2022-11-09.md",
+    "3 Study/FEM/Project.md",
+    "Home.md",
     "3 Study/Software Data Engineering/Project/SDEProject.md",
-    "1 Daily/Diary/Daily Notes/2022-11-05.md",
-    "3 Study/Software Data Engineering/Project/Report.md",
-    "1 Daily/Diary/Daily Notes/2022-11-04.md",
-    "1 Daily/Diary/Daily Notes/2022-11-02.md",
-    "1 Daily/Diary/Daily Notes/2022-11-01.md",
-    "5 Projects/BTechGame/COnnecting To Raspberry PI.md"
+    "5 Projects/BTechGame/COnnecting To Raspberry PI.md",
+    "1 Daily/Diary/Daily Notes/2022-11-08.md"
   ]
 }

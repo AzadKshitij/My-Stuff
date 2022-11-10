@@ -13,7 +13,7 @@ kanban-plugin: basic
 ## Doing
 
 - [ ] Notification for users
-- [ ] Create Images
+- [x] Create Images ✅ 2022-11-09
 
 
 ## Done

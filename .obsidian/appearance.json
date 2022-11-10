@@ -1,6 +1,8 @@
 {
   "baseFontSize": 16,
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "dashboard"
+  ],
   "cssTheme": "Things",
   "translucency": false,
   "monospaceFontFamily": "Fira Code",

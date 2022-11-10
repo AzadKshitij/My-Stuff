@@ -25,5 +25,5 @@
 
 ## Multiplayer 
 
-- [ ] Make player animation sync
-- [ ] IP addresss
+- [x] Make player animation sync ✅ 2022-11-09
+- [x] IP addresss ✅ 2022-11-09

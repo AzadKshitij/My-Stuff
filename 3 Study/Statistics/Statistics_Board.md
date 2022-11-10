@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## ToDO
 
-- [ ] Probability
-- [ ] 3Ms
+- [x] Probability ✅ 2022-11-09
+- [x] 3Ms ✅ 2022-11-09
 
 
 ## Doing
