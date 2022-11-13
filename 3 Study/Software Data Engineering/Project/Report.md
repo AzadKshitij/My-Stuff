@@ -31,25 +31,21 @@ Server is built using **Publisher-Subscriber pattern** which enable an applicati
 ![[Assets/Pasted image 20221113134559.png]]
 <p align="center" >Figure 1: Showcase of how Publisher-Subscriber pattern works. Request from  publisher goes to through server and then to server. </p> 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Summary of Work done
 
+Started with research and thinking about possible ways of solving the problem. As it was a group project we divided it into two major part Frontend and Backend. Frontend consist of user experience, user interface, user interactions etc. 
 
+Backend consist of server, database management, load balancer etc. Server created with python and flask framework. We used MongoDB as a database as it is a general purpose database and works well with   
+
+We also used version control with git and Github.  
 
 
 
 ## Work done
 
+Work Done By Kshitij: Mostly done backend tasks and also implemented some frontend features. 
+
+Work Done By Sandeep: 
 
 
 

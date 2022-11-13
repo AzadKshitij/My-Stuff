@@ -29,6 +29,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a61a25b3a39bb87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DashBoard.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -174,10 +187,10 @@
   },
   "active": "e6e8390638388749",
   "lastOpenFiles": [
+    "DashBoard.md",
     "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md",
     "3 Study/Software Data Engineering/Project/Report.md",
     "1 Daily/Diary/Daily Notes/2022-11-13.md",
-    "DashBoard.md",
     "TimeTable.md",
     "4 Internship/Internship Speedlabs/Research/Detection of Paragraph from image.md",
     "4 Internship/Internship Speedlabs/Course - Chapter Mapping/Save to Database.md",
