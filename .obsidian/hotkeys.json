@@ -16,5 +16,14 @@
       ],
       "key": "V"
     }
+  ],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "6"
+    }
   ]
 }

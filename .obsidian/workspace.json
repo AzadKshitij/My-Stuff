@@ -11,6 +11,16 @@
             "id": "56e45d7327e4d23b",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e6e8390638388749",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "3 Study/Software Data Engineering/Project/Report.md",
@@ -20,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +101,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "c578f09a6ae432e7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5c8ce4d6b4542a99",
@@ -149,19 +169,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
-  "active": "56e45d7327e4d23b",
+  "active": "e6e8390638388749",
   "lastOpenFiles": [
+    "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md",
+    "3 Study/Software Data Engineering/Project/Report.md",
+    "1 Daily/Diary/Daily Notes/2022-11-13.md",
     "DashBoard.md",
-    "Pocket/Time  understand how you use it, create more of it, maximize it, and sustain it.md",
-    "Pocket/How to Get the Most Out of Pocket.md",
-    "About My Self.md",
-    "1 Daily/Diary/Daily Notes/2022-11-09.md",
-    "3 Study/FEM/Project.md",
-    "Home.md",
-    "3 Study/Software Data Engineering/Project/SDEProject.md",
-    "5 Projects/BTechGame/COnnecting To Raspberry PI.md",
-    "1 Daily/Diary/Daily Notes/2022-11-08.md"
+    "TimeTable.md",
+    "4 Internship/Internship Speedlabs/Research/Detection of Paragraph from image.md",
+    "4 Internship/Internship Speedlabs/Course - Chapter Mapping/Save to Database.md",
+    "4 Internship/Internship Speedlabs/Course - Chapter Mapping/Database Drawing.md",
+    "4 Internship/Internship Speedlabs/Course - Chapter Mapping/Callbakcs.md",
+    "Pocket/Time  understand how you use it, create more of it, maximize it, and sustain it.md"
   ]
 }
