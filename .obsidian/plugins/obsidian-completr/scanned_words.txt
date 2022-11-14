@@ -2771,6 +2771,7 @@ Cloths
 Copyright
 City
 CYGj
+Containerized
 Page
 Programmer
 Postgres
@@ -9626,6 +9627,7 @@ glass
 gunicorn
 getpocket
 gawker
+git
 programmers
 part
 player
@@ -17734,6 +17736,7 @@ Effective
 Excerpt
 EVS
 ENvOJgNy
+Ended
 this
 there
 testers
@@ -19691,6 +19694,7 @@ Details
 Dockerizing
 Date
 Dependes
+Deployed
 Kshitij
 Kernel
 Ka
@@ -22151,6 +22155,7 @@ Member
 Matt
 Meetup
 Mid
+Mostly
 We
 Why
 Working
@@ -24029,6 +24034,7 @@ demo
 dockerizing
 distract
 dashboard
+docker
 be
 by
 become
@@ -26024,7 +26030,6 @@ material
 mqLMaTQ
 mitigating
 mxnet
-mongoDB
 mention
 mCi
 mbF
@@ -34223,6 +34228,7 @@ Isk
 Introductions
 IEND
 Introduction
+Implemented
 React
 REST
 RD

@@ -31,6 +31,19 @@
             }
           },
           {
+            "id": "73649b510b1f758a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Daily/00 New Discoveries Log.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "a61a25b3a39bb87f",
             "type": "leaf",
             "state": {
@@ -44,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5c8ce4d6b4542a99",
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Study/Software Data Engineering/Project/Report.md",
+                "file": "1 Daily/00 New Discoveries Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Study/Software Data Engineering/Project/Report.md"
+                "file": "1 Daily/00 New Discoveries Log.md"
               }
             }
           },
@@ -182,14 +194,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
-  "active": "e6e8390638388749",
+  "active": "73649b510b1f758a",
   "lastOpenFiles": [
+    "3 Study/Software Data Engineering/Project/Report.md",
     "DashBoard.md",
     "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md",
-    "3 Study/Software Data Engineering/Project/Report.md",
     "1 Daily/Diary/Daily Notes/2022-11-13.md",
     "TimeTable.md",
     "4 Internship/Internship Speedlabs/Research/Detection of Paragraph from image.md",
