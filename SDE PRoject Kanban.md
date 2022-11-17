@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## ToDo
 
-- [ ] User Profile Image #sandeep
+- [x] User Profile Image #sandeep ✅ 2022-11-15
 - [ ] Document stuff
 
 
 ## Doing
 
-- [ ] Notification for users
+- [x] Notification for users ✅ 2022-11-15
 - [x] Create Images ✅ 2022-11-09
 
 

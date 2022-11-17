@@ -1,7 +1,8 @@
 {
   "baseFontSize": 15,
   "enabledCssSnippets": [
-    "dashboard"
+    "dashboard",
+    "img"
   ],
   "cssTheme": "Things",
   "translucency": false,

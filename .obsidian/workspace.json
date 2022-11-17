@@ -11,14 +11,17 @@
             "id": "56e45d7327e4d23b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md"
+                "file": "5 Projects/BTechGame/COnnecting To Raspberry PI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "e6e8390638388749",
+            "id": "c04b75423b232554",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,20 +34,33 @@
             }
           },
           {
-            "id": "73649b510b1f758a",
+            "id": "e6dcfa6e9e0d143c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Daily/00 New Discoveries Log.md",
-                "mode": "preview",
+                "file": "3 Study/Software Data Engineering/Project/cert.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "a61a25b3a39bb87f",
+            "id": "112a11efc8beb28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Projects/BTechGame/BTech ML Project.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83df30866dfa3169",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,9 +71,32 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "144fe5d38dd20783",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c59211fd20977276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Study/Environment/Presentation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -149,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Daily/00 New Discoveries Log.md",
+                "file": "3 Study/Environment/Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Daily/00 New Discoveries Log.md"
+                "file": "3 Study/Environment/Presentation.md"
               }
             }
           },
@@ -194,19 +233,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
-  "active": "73649b510b1f758a",
+  "active": "c59211fd20977276",
   "lastOpenFiles": [
-    "3 Study/Software Data Engineering/Project/Report.md",
     "DashBoard.md",
     "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md",
-    "1 Daily/Diary/Daily Notes/2022-11-13.md",
-    "TimeTable.md",
-    "4 Internship/Internship Speedlabs/Research/Detection of Paragraph from image.md",
-    "4 Internship/Internship Speedlabs/Course - Chapter Mapping/Save to Database.md",
-    "4 Internship/Internship Speedlabs/Course - Chapter Mapping/Database Drawing.md",
-    "4 Internship/Internship Speedlabs/Course - Chapter Mapping/Callbakcs.md",
-    "Pocket/Time  understand how you use it, create more of it, maximize it, and sustain it.md"
+    "3 Study/Software Data Engineering/Project/Report.md",
+    "5 Projects/BTechGame/COnnecting To Raspberry PI.md",
+    "Excalidraw/Drawing 2022-10-19 21.38.36.excalidraw.md",
+    "5 Projects/BTechGame/BTech ML Project.md",
+    "5 Projects/SDE Project.md",
+    "3 Study/Software Data Engineering/Assignment/Paper.md",
+    "3 Study/Software Data Engineering/Assignment/Technical Writup.md",
+    "3 Study/Software Data Engineering/Assignment/Assignment3.md"
   ]
 }
