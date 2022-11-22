@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## ToDo
 
 - [x] User Profile Image #sandeep ✅ 2022-11-15
-- [ ] Document stuff
+- [x] Document stuff ✅ 2022-11-18
 
 
 ## Doing

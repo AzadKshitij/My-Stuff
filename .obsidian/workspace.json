@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56e45d7327e4d23b",
+            "id": "15fe0a9ddbfb38ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Projects/BTechGame/COnnecting To Raspberry PI.md",
+                "file": "3 Study/Software Data Engineering/AI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,82 +21,20 @@
             }
           },
           {
-            "id": "c04b75423b232554",
+            "id": "9106dc77afc5f97c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Study/Software Data Engineering/Project/Report.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6dcfa6e9e0d143c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Study/Software Data Engineering/Project/cert.md",
+                "file": "3 Study/Software Data Engineering/Resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "112a11efc8beb28f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Projects/BTechGame/BTech ML Project.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83df30866dfa3169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DashBoard.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "144fe5d38dd20783",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c59211fd20977276",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Study/Environment/Presentation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Study/Environment/Presentation.md",
+                "file": "3 Study/Software Data Engineering/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Study/Environment/Presentation.md"
+                "file": "3 Study/Software Data Engineering/Resources.md"
               }
             }
           },
@@ -236,17 +174,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "c59211fd20977276",
+  "active": "9106dc77afc5f97c",
   "lastOpenFiles": [
+    "3 Study/Software Data Engineering/AI.md",
+    "3 Study/Software Data Engineering/Resources.md",
     "DashBoard.md",
-    "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md",
-    "3 Study/Software Data Engineering/Project/Report.md",
+    "5 Projects/BTechGame/ML Presentation.md",
     "5 Projects/BTechGame/COnnecting To Raspberry PI.md",
-    "Excalidraw/Drawing 2022-10-19 21.38.36.excalidraw.md",
+    "3 Study/Software Data Engineering/Project/Report.md",
     "5 Projects/BTechGame/BTech ML Project.md",
-    "5 Projects/SDE Project.md",
-    "3 Study/Software Data Engineering/Assignment/Paper.md",
-    "3 Study/Software Data Engineering/Assignment/Technical Writup.md",
-    "3 Study/Software Data Engineering/Assignment/Assignment3.md"
+    "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md",
+    "Excalidraw/Drawing 2022-10-19 21.38.36.excalidraw.md",
+    "5 Projects/SDE Project.md"
   ]
 }
