@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc659a3a6c09151",
+        "id": "9846a972438a52f7",
         "type": "tabs",
         "children": [
           {
-            "id": "15fe0a9ddbfb38ca",
+            "id": "488835a596dbee20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Study/Software Data Engineering/AI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9106dc77afc5f97c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Study/Software Data Engineering/Resources.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "50ad3cf652756c7a",
@@ -126,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Study/Software Data Engineering/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3 Study/Software Data Engineering/Resources.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,17 +151,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "9106dc77afc5f97c",
+  "active": "488835a596dbee20",
   "lastOpenFiles": [
+    "Home.md",
+    "readme.md",
+    "README__.md",
+    "1 Daily/Diary/Daily Notes/2022-11-23.md",
+    "3 Study/Environment/Presentation.md",
     "3 Study/Software Data Engineering/AI.md",
     "3 Study/Software Data Engineering/Resources.md",
     "DashBoard.md",
     "5 Projects/BTechGame/ML Presentation.md",
-    "5 Projects/BTechGame/COnnecting To Raspberry PI.md",
-    "3 Study/Software Data Engineering/Project/Report.md",
-    "5 Projects/BTechGame/BTech ML Project.md",
-    "3 Study/Software Data Engineering/Project/Drawing.exalidraw.md",
-    "Excalidraw/Drawing 2022-10-19 21.38.36.excalidraw.md",
-    "5 Projects/SDE Project.md"
+    "5 Projects/BTechGame/COnnecting To Raspberry PI.md"
   ]
 }
