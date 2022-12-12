@@ -8,7 +8,7 @@
     "Postgress"
   ],
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "promptDelete": false,
   "spellcheckLanguages": [
     "en-GB",
@@ -24,5 +24,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source",
+  "showLineNumber": true
 }

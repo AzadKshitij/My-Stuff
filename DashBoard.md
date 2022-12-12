@@ -16,3 +16,7 @@ hide backlinks
 	-  File Count: `$=dv.pages().length`
 	-  Personal recipes: `$=dv.pages('"Family/Recipes"').length`
 	- 
+
+
+![](https://lh6.googleusercontent.com/bD_nte6D8RuwMCFBgMtM5us7oOADcOBzAarSwZ7KtLt8Z6jnxLaPKTYQudL2hkQfa4HaJUvVND21q-g0G6XiuGnybbO6FoypWAFaZj6awOOapa4b0_0OddecdMcsr5EvY--MqLDtsIyjCyzv1qxftPEJA76bVnlwHJzRY5cyQBd1xcKCqf6eKGrugEKwgQ)
+

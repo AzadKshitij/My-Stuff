@@ -4,18 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "9846a972438a52f7",
+        "id": "33622b3311650d3e",
         "type": "tabs",
         "children": [
           {
-            "id": "488835a596dbee20",
+            "id": "59e91ca77a98ec14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Interview Preparation/SQL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d349fc8960dbbae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Preparation/Deloitte.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be6210c989726011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DashBoard.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DashBoard.md"
+              }
             }
           },
           {
@@ -148,20 +183,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 327.5
   },
-  "active": "488835a596dbee20",
+  "active": "be6210c989726011",
   "lastOpenFiles": [
-    "Home.md",
-    "readme.md",
-    "README__.md",
-    "1 Daily/Diary/Daily Notes/2022-11-23.md",
-    "3 Study/Environment/Presentation.md",
-    "3 Study/Software Data Engineering/AI.md",
-    "3 Study/Software Data Engineering/Resources.md",
+    "Interview Preparation/SQL.md",
+    "Interview Preparation/Deloitte.md",
     "DashBoard.md",
-    "5 Projects/BTechGame/ML Presentation.md",
-    "5 Projects/BTechGame/COnnecting To Raspberry PI.md"
+    "Interview Preparation/Satyam.md",
+    "About My Self.md",
+    "4 Internship/Internship Speedlabs/Research/Detection of Paragraph from image.md",
+    "4 Internship/Internship Speedlabs/Research/Drawing 2022-06-14 23.04.39.excalidraw.md",
+    "4 Internship/Internship Speedlabs/Research/Logs.md",
+    "4 Internship/Internship Speedlabs/Week_1 16_05 - 22_05.md",
+    "1 Daily/_Start Here.md"
   ]
 }

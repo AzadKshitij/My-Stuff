@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasSwatchbook",
       "FasImages",
       "FasBook",
       "FasTicketSimple",
-      "FasCalendarDay",
-      "FasGamepad"
+      "FasCalendarDay"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +32,7 @@
   "5 Projects": "RiProjectorFill",
   "Assets": "FasImages",
   "3 Study": "FasBook",
-  "2 GamedevSociety": "FasGamepad"
+  "2 GamedevSociety": "FasGamepad",
+  "Interview Preparation": "FasSwatchbook",
+  "diagrams": "FasImages"
 }
