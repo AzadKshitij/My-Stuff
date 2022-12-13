@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "be6210c989726011",
+            "id": "fbc7ee845906e6da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
-                "mode": "preview",
+                "file": "About My Self.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "About My Self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "About My Self.md"
               }
             }
           },
@@ -185,17 +185,17 @@
     "direction": "horizontal",
     "width": 327.5
   },
-  "active": "be6210c989726011",
+  "active": "52da2995735493a2",
   "lastOpenFiles": [
-    "Interview Preparation/SQL.md",
-    "Interview Preparation/Deloitte.md",
     "DashBoard.md",
+    "Interview Preparation/Deloitte.md",
+    "1 Daily/00 Workout Log.md",
+    "4 Internship/Internship Speedlabs/Kanban/Speedlabs - Kanban.md",
+    "gf.md",
+    "Interview Preparation/SQL.md",
     "Interview Preparation/Satyam.md",
     "About My Self.md",
     "4 Internship/Internship Speedlabs/Research/Detection of Paragraph from image.md",
-    "4 Internship/Internship Speedlabs/Research/Drawing 2022-06-14 23.04.39.excalidraw.md",
-    "4 Internship/Internship Speedlabs/Research/Logs.md",
-    "4 Internship/Internship Speedlabs/Week_1 16_05 - 22_05.md",
-    "1 Daily/_Start Here.md"
+    "4 Internship/Internship Speedlabs/Research/Drawing 2022-06-14 23.04.39.excalidraw.md"
   ]
 }

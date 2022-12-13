@@ -375,6 +375,11 @@ contours
 cv
 convince
 criticizing
+college
+collaborative
+creativity
+card
+class
 dashboard
 doc
 demo
@@ -649,6 +654,8 @@ dilated
 drawn
 display
 deadline
+deloitte
+dropdown
 Todos
 Tagged
 Team
@@ -863,6 +870,8 @@ INSERT
 Internship
 India
 IITJ
+IDS
+Ids
 Recent
 Report
 React
@@ -1158,6 +1167,7 @@ firm
 false
 founded
 family
+findings
 updates
 using
 upload
@@ -1230,6 +1240,7 @@ unfollow
 userID
 uncompressed
 undermining
+uplift
 Stats
 SDE
 Source
@@ -1396,6 +1407,7 @@ SubFigures
 Scientific
 Step
 Saying
+Save
 File
 Frontend
 Flask
@@ -1603,6 +1615,7 @@ Capture
 Cosmic
 CB
 Challenge
+Combination
 Personal
 Project
 Password
@@ -1719,6 +1732,8 @@ PDFigCapX
 Pipeline
 Pengyuan
 Pandora
+PWC
+Progress
 recipes
 repository
 readme
@@ -2020,6 +2035,9 @@ regulations
 rectangle
 rectangular
 relocate
+revenue
+resonates
+reputation
 tags
 to
 team
@@ -2222,6 +2240,8 @@ told
 took
 thicker
 talking
+thrive
+talented
 study
 slides
 students
@@ -2620,6 +2640,7 @@ syn
 sir
 seeking
 sector
+satisfaction
 in
 if
 is
@@ -2824,6 +2845,8 @@ icons
 internally
 insecure
 integer
+inspiring
+interesting
 pdf
 ppt
 personal
@@ -3134,6 +3157,7 @@ parenthesis
 pursuing
 pursue
 promotion
+personality
 zipped
 zMkreX
 zKlVbIVFCN
@@ -3394,6 +3418,9 @@ leadsquared
 lobby
 license
 life
+largest
+leadership
+lcsg
 with
 work
 where
@@ -3484,6 +3511,7 @@ wordpress
 wanted
 wall
 willing
+workouts
 Link
 Login
 Limiting
@@ -3804,6 +3832,8 @@ auditing
 attempt
 analyst
 afraid
+advance
+adaptability
 member
 manage
 mentioned
@@ -4198,6 +4228,9 @@ element
 employee
 educational
 employer
+exposure
+excellence
+ethic
 Member
 ME
 Models
@@ -4280,6 +4313,8 @@ Mon
 Meet
 Ma
 MS
+Math
+Manage
 Details
 Docker
 Done
@@ -4376,6 +4411,7 @@ Dash
 Detection
 Delaware
 DROP
+Don
 Kshitij
 Karlton
 Key
@@ -4387,6 +4423,8 @@ KGS
 Kleppmann
 KtLt
 Kernel
+Kartik
+KPMG
 Our
 Ordering
 OPTIONS
@@ -4425,6 +4463,7 @@ OddecdMcsr
 Operations
 Onboarding
 Oracle
+Other
 blogging
 build
 be
@@ -4565,6 +4604,8 @@ brand
 binarization
 beliefs
 bout
+biggest
+button
 you
 your
 yx
@@ -4870,12 +4911,14 @@ EVS
 Entered
 Entries
 Extracting
+Ernst
 You
 YCNL
 YboaGGL
 YLupNv
 Year
 YouTube
+Young
 Amazon
 As
 Author
@@ -4990,6 +5033,7 @@ Always
 Ahead
 AOSA
 Audit
+Actions
 HTTP
 Hence
 Healthy
@@ -5044,6 +5088,7 @@ Holds
 Himanshu
 HR
 History
+Handle
 Backend
 By
 Better
@@ -5230,6 +5275,7 @@ grokking
 gunicorn
 gridraster
 grayscale
+goals
 quality
 queries
 querying
@@ -5256,6 +5302,7 @@ qualifications
 qualified
 question
 quitting
+quarters
 Web
 Work
 We
@@ -5371,6 +5418,7 @@ velotio
 versus
 vault
 varchar
+verbally
 Query
 Querying
 Quickly
@@ -5430,6 +5478,7 @@ jboss
 jnxLaPKTYQudL
 jp
 junior
+joining
 UZ
 User
 Users

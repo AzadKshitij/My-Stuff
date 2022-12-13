@@ -5,7 +5,12 @@
 
 ## About the Company
 
-“Deloitte” is the brand under which tens of thousands of dedicated professionals in independent firms throughout the world collaborate to provide audit & assurance, consulting, risk and financial advisory, risk management, tax, and related services to select clients. These firms are members of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (“DTTL”). Each DTTL member firm provides services in particular geographic areas and is subject to the laws and professional regulations of the particular country or countries in which it operates.
+**Deloitte** is the brand under which tens of thousands of dedicated professionals in independent firms throughout the world collaborate to provide audit & assurance, consulting, risk and financial advisory, risk management, tax, and related services to select clients. These firms are members of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (“DTTL”). Each DTTL member firm provides services in particular geographic areas and is subject to the laws and professional regulations of the particular country or countries in which it operates.
+
+Deloitte is one of the big accounting organization. It is the largest professional service network in the world by revenue and number of professionals. Head quarters in London.
+
+**What does it do?**
+Deloitte provides audit, consulting, financial advisory, risk advisory, tax and legal service. with (Kartik) sir. 
 
 
 ## SQL 
@@ -156,11 +161,26 @@ Postgres, MySQL, Oracle: `WHERE mod(column_name,2) = 0`
 #### 4. Display last 50% of records from the employee table.
 ```sql
 SELECT * FROM
-(SELECT top 50 percent * FROM Employee ORDER BY ID DESC)
+(SELECT top (50) percent * FROM Employee ORDER BY ID DESC)
 ORDER BY ID;
 ```
 
 #### 5. Select all records from employee table whose name is "Himanshu" and "Rahul"
+
+## Math Questions
+
+![[Assets/Pasted image 20221212215742.png]]
+![[Assets/Pasted image 20221212215844.png]] 
+
+![[Assets/Pasted image 20221212220015.png]]
+
+- I wanted to work with the best in the industry and what better choice than deloitte. The market share you company has and the exposure it gives to its employee helps them in professional life. As mentioned in the ppt of deloitte at our college the flexible work time the work life balance and the list goes on. I want to uplift my leadership and organization skills. My skills and behavior resonates with your company's core values like leadership, excellence, integrity. 
+
+![[Assets/Pasted image 20221212220812.png]]
+
+![[Assets/Pasted image 20221212221154.png]]
+
+
 
 
 ## HR Questions
@@ -180,28 +200,38 @@ Deloitte's history, such as when the company was founded, its aims, beliefs, and
 -   What made you want to find a new job? (This is a frequently asked question among experienced professionals seeking a job change. Saying you're quitting your current job to pursue a promotion is the simplest approach to react to this question. Make sure you're not criticizing or undermining your current employer.)
 
 1. Why Deloitte?
+	> **Explain how your personality, skills, working style and career goals can make you a good fit for the job**
+	
+	- Deloitte offers a dynamic collaborative work environment a challenging and inspiring work place which gives me a chance to grow and thrive and gives me a chance to work in one of the biggest and leading service network.
+	- The big four: PWC, KPMG Ernst & Young.
 	- 
-2. Why analyst?
+	- There are many potential reasons why you might want to consider joining Deloitte. Some of the key benefits of working for Deloitte include the opportunity to work with some of the most talented and experienced professionals in the industry, access to a wide range of training and development opportunities, and a strong focus on work-life balance and employee satisfaction. Additionally, Deloitte is a global company with a strong reputation and a long history of providing high-quality services to its clients. This can provide a sense of stability and security for employees, as well as the opportunity to work on a variety of interesting and challenging projects. Overall, joining Deloitte can be a great career move for anyone looking to advance their career in the professional services industry.
+	- 
+3. Why analyst?
 	- What is analyst?
+		- There are many different qualities and skills that can be helpful for an analyst to have, depending on the specific job and industry. In general, however, an analyst should be detail-oriented and highly analytical, with strong problem-solving skills and the ability to work with large amounts of data. They should also be able to communicate their findings and recommendations effectively, both in writing and verbally. Additionally, an analyst should be able to work independently, as well as in collaboration with others, and should be comfortable with using a variety of tools and software to support their work. Other important qualities for an analyst might include creativity, adaptability, and a strong work ethic.
 	- Why I fit into the role?
-3. Tell me bout you self.
+		-  
+1. Tell me bout you self.
 	1. What are you doing now?
 	2. What you did before?
 	3. What next you want to do?
-4. Tell us the time you worked in a team?
-5. Why you want to work in the sector?
-6. Challenge and how you overcome it.
-7. How do you handle pressure.
+2. Tell us the time you worked in a team?
+3. Why you want to work in the sector?
+4. Challenge and how you overcome it.
+5. How do you handle pressure.
 	1. Time management, Being organized.
 	2. Willing to go extra mile to get work done.
 	3. doing work under pressure with hard deadline(IITJ Voting)
-	4. I'm not afraid to help people. 
+	4. I'm not afraid to ask people for help.
 
+![[Assets/Pasted image 20221212221456.png]]
 
+![[Assets/Pasted image 20221212221530.png]]
 
+Good Will of a company is the value or the reputation it has between the consumers.
 
-
-
+![[Assets/Pasted image 20221212221811.png]]
 
 
 
