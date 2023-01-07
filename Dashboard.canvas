@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"30409827a3500142","x":-961,"y":-851,"width":1596,"height":930,"type":"group","label":"Dashboard"},
+		{"id":"827025c12b11b4dc","x":215,"y":-831,"width":400,"height":890,"color":"6","type":"file","file":"Goals.md"},
+		{"id":"bfebbd03b4e66b6b","x":-941,"y":-831,"width":365,"height":890,"color":"5","type":"text","text":"# Goals for 2023\n\n- Do some YouTube Stuff.\n- Make a SAAS product.\n- Learn what the F is Tableau.\n- Improve Sleep cycle.\n- Hit 40 HS in VALORANT DM with D.\n- Read Some Books."},
+		{"id":"4680ecda8c562f7a","x":-576,"y":-831,"width":791,"height":890,"color":"2","type":"text","text":"# Work in progress\n\n- Making YouTube Short videos.\n- Working on game.\n- Creating UI for \n"}
+	],
+	"edges":[]
+}

@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiProductHuntFill",
       "FasSwatchbook",
       "FasImages",
       "FasBook",
-      "FasTicketSimple",
-      "FasCalendarDay"
+      "FasTicketSimple"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,10 @@
   "3 Study": "FasBook",
   "2 GamedevSociety": "FasGamepad",
   "Interview Preparation": "FasSwatchbook",
-  "diagrams": "FasImages"
+  "diagrams": "FasImages",
+  "Product": "RiProductHuntFill",
+  "Goals.canvas": {
+    "iconName": null,
+    "inheritanceIcon": "FasAlignCenter"
+  }
 }

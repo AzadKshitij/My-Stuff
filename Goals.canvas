@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"fbee7bc2a13cd041","x":-761,"y":-806,"width":1354,"height":525,"color":"6","type":"group","label":"Goals"},
+		{"id":"a95a5205ac31362a","x":-741,"y":-783,"width":397,"height":482,"type":"text","text":"# Game Dev\n\n- [ ] Models\n- [ ] Leader board\n- [x] UI for player ✅ 2022-12-26\n- [ ] Land fills (Non Composteble)\n- [ ] Compost (Compostable)"},
+		{"id":"febf4b2bf933f771","x":176,"y":-783,"width":397,"height":482,"type":"text","text":"# SAAS Product\n\n- [ ] SVG Viewer\n- [ ] Market research\n- [ ] Tech stack\n- [ ] Start Dev.\n- [ ] "},
+		{"id":"81e50c19f43ac2e1","x":-323,"y":-783,"width":480,"height":482,"type":"text","text":"# Data science\n- [ ] Create a dashboard with Streamlit\n- [ ] Learn to use Excel \n- [ ] Learn to use Tableau \n- [ ] Learn to use Power BI"},
+		{"id":"4edfa453c3342a4b","x":-281,"y":-249,"width":396,"height":281,"type":"text","text":"# Goals for 2023\n\n- Do some YouTube Stuff.\n- Make a SAAS product.\n- Learn what the F is Tableau.\n- Improve Sleep cycle.\n- Hit 40 HS in VALORANT DM with D.\n- Read Some Books."}
+	],
+	"edges":[]
+}

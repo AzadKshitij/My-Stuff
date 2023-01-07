@@ -20,5 +20,9 @@
   "homepage",
   "table-editor-obsidian",
   "excalibrain",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "obsidian-raindrop",
+  "settings-search",
+  "obsidian-plugin-update-tracker",
+  "cmdr"
 ]
